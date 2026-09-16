@@ -16,7 +16,7 @@
 <p align="center">🛍️ Retail jobs across the US, from store and warehouse roles to delivery. Refreshed daily.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Retail%20Jobs-34638-3FB950?style=flat&logo=briefcase" height="30" alt="Retail Jobs">
+  <img src="https://img.shields.io/badge/Retail%20Jobs-34608-3FB950?style=flat&logo=briefcase" height="30" alt="Retail Jobs">
   <img src="https://img.shields.io/badge/Sales%20Floor%20%26%20Customer%20Service-7183-2F81F7?style=flat&logo=briefcase" height="30" alt="Sales Floor & Customer Service">
   <img src="https://img.shields.io/badge/Companies-32-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
@@ -65,14 +65,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Target** | Starbucks Barista | Irvine, CA | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453636?s=gh-retail-jobs-2027) |
-| **Target** | Starbucks Barista | Ontario, CA | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453686?s=gh-retail-jobs-2027) |
+| **Target** | Starbucks Barista | Irvine, CA | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453636?s=gh-retail-jobs-2027) |
+| **Target** | Starbucks Barista | Ontario, CA | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453686?s=gh-retail-jobs-2027) |
 | **Target** | Starbucks Barista (T0929) | Peru, IL | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453601?s=gh-retail-jobs-2027) |
 | **Kroger** | Starbucks Barista | Lebanon, TN, United States | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-230348?s=gh-retail-jobs-2027) |
 | **Albertsons** | Starbucks Barista | Santa Clarita, CA, United States | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-767338?s=gh-retail-jobs-2027) |
 | **Starbucks** | coffeehouse coach - #9307, Green Valley & Warm Springs | 2295 N Green Valley Pkwy,... | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/starbucks-260075983?s=gh-retail-jobs-2027) |
 | **Starbucks** | coffeehouse coach - Store# 02534, MENTOR | 7715 Mentor Ave, Mentor, Ohio,... | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/starbucks-260075910?s=gh-retail-jobs-2027) |
-| **Starbucks** | barista, Retail (Merchandise) - Chicago Reserve Roastery | 646 N Michigan Ave, Chicago,... | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/starbucks-260075846?s=gh-retail-jobs-2027) |
+| **Starbucks** | barista, Retail (Merchandise) - Chicago Reserve Roastery | 646 N Michigan Ave, Chicago,... | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/starbucks-260075846?s=gh-retail-jobs-2027) |
 | **Hilton** | Junction Cafe Supervisor | Philadelphia, PA, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-220366?s=gh-retail-jobs-2027) |
 | **Kroger** | STARBUCKS/BARISTA | Boulder, CO, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-218217?s=gh-retail-jobs-2027) |
 | **Kroger** | Starbucks Barista | Logan, OH, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-225055?s=gh-retail-jobs-2027) |
@@ -94,12 +94,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Full Time - Sales Associate - Electrical & Lighting - Day | West St Paul, MN 2313 | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02651079?s=gh-retail-jobs-2027) |
-| **CVS Health** | Store Associate | PA - Philadelphia | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1043784?s=gh-retail-jobs-2027) |
-| **CVS Health** | Store Associate | PA - Philadelphia | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1041444?s=gh-retail-jobs-2027) |
-| **Target** | Seasonal: Guest Advocate (Cashier), General Merchandise, Fulfillment, Food & Beverage, Front of... | Woodbury, MN | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453708?s=gh-retail-jobs-2027) |
-| **Target** | Seasonal: Guest Advocate (Cashier), General Merchandise, Fulfillment, Food & Beverage, Front of... | Oakdale, MN | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453707?s=gh-retail-jobs-2027) |
-| **Target** | Seasonal: Guest Advocate (Cashier), General Merchandise, Fulfillment, Food & Beverage, Front of... | Inver Grove Heights, MN | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453706?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Sales Associate - Electrical & Lighting - Day | West St Paul, MN 2313 | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02651079?s=gh-retail-jobs-2027) |
+| **CVS Health** | Store Associate | PA - Philadelphia | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1043784?s=gh-retail-jobs-2027) |
+| **CVS Health** | Store Associate | PA - Philadelphia | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1041444?s=gh-retail-jobs-2027) |
+| **Target** | Seasonal: Guest Advocate (Cashier), General Merchandise, Fulfillment, Food & Beverage, Front of... | Woodbury, MN | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453708?s=gh-retail-jobs-2027) |
+| **Target** | Seasonal: Guest Advocate (Cashier), General Merchandise, Fulfillment, Food & Beverage, Front of... | Oakdale, MN | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453707?s=gh-retail-jobs-2027) |
+| **Target** | Seasonal: Guest Advocate (Cashier), General Merchandise, Fulfillment, Food & Beverage, Front of... | Inver Grove Heights, MN | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453706?s=gh-retail-jobs-2027) |
 | **Verizon** | Retail Sales Associate | 1594 Military RD, Niagara... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1089096?s=gh-retail-jobs-2027) |
 | **Verizon** | Retail Sales Associate | 3351 W Shore DR, Holland, Michigan | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1093461?s=gh-retail-jobs-2027) |
 | **Verizon** | Retail Sales Associate | 1979 E Beltline AVE, Grand... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1095922?s=gh-retail-jobs-2027) |
@@ -108,18 +108,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **LabCorp** | Customer Service Support Rep | Troy MI | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2629638?s=gh-retail-jobs-2027) |
 | **CVS Health** | Store Associate | CA - Sherman Oaks | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1038825?s=gh-retail-jobs-2027) |
 | **Sysco** | Merchandising Coordinator | Sysco Arizona OpCo | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R267220?s=gh-retail-jobs-2027) |
-| **Home Depot** | Merchandising Assistant Store Manager in Training | WILLISTON STORE | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-homedepot-careerdepot-Req193422?s=gh-retail-jobs-2027) |
+| **Home Depot** | Merchandising Assistant Store Manager in Training | WILLISTON STORE | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-homedepot-careerdepot-Req193422?s=gh-retail-jobs-2027) |
 | **Kroger** | Cashier | Hayes, VA, United States | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-230342?s=gh-retail-jobs-2027) |
 | **AutoZone** | Retail Sales Associate – Part Time | Reno, NV, United States | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-153756?s=gh-retail-jobs-2027) |
 | **AutoZone** | Retail Sales Associate – Part Time | Conroe, TX, United States | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-153768?s=gh-retail-jobs-2027) |
 | **AutoZone** | Retail Sales Associate – Part Time | West Valley City, UT, United States | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-153762?s=gh-retail-jobs-2027) |
 | **Albertsons** | Front End Entry Level | Laguna Niguel, CA, United States | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-767336?s=gh-retail-jobs-2027) |
 | **Lowe's** | Full Time - Sales Associate - Outside Lawn & Garden - Day | Batesville, MS 1757 | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02650449?s=gh-retail-jobs-2027) |
-| **Red Bull** | Merchandising Manager | Sterling Heights, MI | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000149712074?s=gh-retail-jobs-2027) |
+| **Red Bull** | Merchandising Manager | Sterling Heights, MI | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000149712074?s=gh-retail-jobs-2027) |
 | **Eurofins** | Customer Service Manager | Des Moines, IA | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000149649419?s=gh-retail-jobs-2027) |
+| **LabCorp** | Customer Service Representative - Onsite | Itasca IL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2630545?s=gh-retail-jobs-2027) |
 | **Johnson & Johnson** | Sales Associate, (Nashville, TN) Foot & Ankle – Johnson & Johnson MedTech, Orthopaedics | West Chester, Pennsylvania,... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-097668?s=gh-retail-jobs-2027) |
 | **Johnson & Johnson** | Sales Associate, Trauma – Portland, OR – Johnson & Johnson MedTech - Orthopaedics | Portland, Oregon, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-098958?s=gh-retail-jobs-2027) |
-| **LabCorp** | Customer Service Representative - Onsite | Itasca IL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2630545?s=gh-retail-jobs-2027) |
 | **Trane Technologies** | Customer Sales Associate | Columbus, Ohio | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-14663?s=gh-retail-jobs-2027) |
 | **Trane Technologies** | Customer Sales Associate | Moorestown, New Jersey | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-14415?s=gh-retail-jobs-2027) |
 | **Home Depot** | Merchandising Assistant Store Manager In Training | THATCHER AZ STORE | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-homedepot-careerdepot-Req193318?s=gh-retail-jobs-2027) |
@@ -159,9 +159,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Part Time - Fulfillment Associate - Flexible | Melbourne, FL 0696 | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02651102?s=gh-retail-jobs-2027) |
-| **Lowe's** | Part Time - Fulfillment Associate - Flexible | Spokane, WA (N Spokane) 3045 | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02651080?s=gh-retail-jobs-2027) |
-| **Target** | Full Time Hourly Warehouse Operations Seasonal and Permanent Openings (T3803) | Topeka, KS | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447640?s=gh-retail-jobs-2027) |
+| **Lowe's** | Part Time - Fulfillment Associate - Flexible | Melbourne, FL 0696 | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02651102?s=gh-retail-jobs-2027) |
+| **Lowe's** | Part Time - Fulfillment Associate - Flexible | Spokane, WA (N Spokane) 3045 | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02651080?s=gh-retail-jobs-2027) |
+| **Target** | Full Time Hourly Warehouse Operations Seasonal and Permanent Openings (T3803) | Topeka, KS | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447640?s=gh-retail-jobs-2027) |
 | **Cox** | Warehouse Operator I | Philadelphia PA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682572?s=gh-retail-jobs-2027) |
 | **Lowe's** | Part Time - Fulfillment Associate - Flexible | Ashland, KY (Russell) 1123 | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02650985?s=gh-retail-jobs-2027) |
 | **CVS Health** | Pharmacy Warehouse Associate - Dispensing Level 1 (2nd Shift) | PA - Wilkes Barre | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0964671?s=gh-retail-jobs-2027) |
@@ -176,8 +176,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Red Bull** | Warehouse Loader | Bolingbrook, IL | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000149669719?s=gh-retail-jobs-2027) |
 | **Red Bull** | Warehouse Loader (Part Time) | Miami, FL | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000149665290?s=gh-retail-jobs-2027) |
 | **Red Bull** | Part Time Warehouse Loader | Omaha, NE | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000149634306?s=gh-retail-jobs-2027) |
-| **Fresenius Medical Care** | Warehouse Worker II | Irving, TX, USA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0246348?s=gh-retail-jobs-2027) |
 | **Trane Technologies** | Warehouse Technician | Riverside, California | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-15719?s=gh-retail-jobs-2027) |
+| **Fresenius Medical Care** | Warehouse Worker II | Irving, TX, USA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0246348?s=gh-retail-jobs-2027) |
 | **Cardinal Health** | Warehouse Associate | Atlanta Kendall Park, GA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20187468?s=gh-retail-jobs-2027) |
 | **Cardinal Health** | Warehouse Worker (3rd shift) | Grove City at, OH | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20187429?s=gh-retail-jobs-2027) |
 | **Cardinal Health** | Warehouse Associate- 1st shift | Birmingham, AL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20187473?s=gh-retail-jobs-2027) |
@@ -252,11 +252,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Fresenius Medical Care** | Registered Nurse | Rockingham, WA | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0269922?s=gh-retail-jobs-2027) |
-| **Target** | Target Security Specialist | Pueblo, CO | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453541?s=gh-retail-jobs-2027) |
-| **Target** | Target Security Specialist | Dallas, TX | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453664?s=gh-retail-jobs-2027) |
-| **Target** | Target Security Specialist | Hurricane, WV | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453434?s=gh-retail-jobs-2027) |
-| **Sysco** | QA Produce Inspector | Sysco North Dakota  -  Fargo | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R267450?s=gh-retail-jobs-2027) |
+| **Fresenius Medical Care** | Registered Nurse | Rockingham, WA | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0269922?s=gh-retail-jobs-2027) |
+| **Target** | Target Security Specialist | Pueblo, CO | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453541?s=gh-retail-jobs-2027) |
+| **Target** | Target Security Specialist | Dallas, TX | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453664?s=gh-retail-jobs-2027) |
+| **Target** | Target Security Specialist | Hurricane, WV | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453434?s=gh-retail-jobs-2027) |
+| **Sysco** | QA Produce Inspector | Sysco North Dakota  -  Fargo | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R267450?s=gh-retail-jobs-2027) |
 | **LabCorp** | Phlebotomist Rover | Rockford IL | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2630599?s=gh-retail-jobs-2027) |
 | **LabCorp** | Phlebotomist | Philadelphia PA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2627511?s=gh-retail-jobs-2027) |
 | **LabCorp** | Phlebotomist - BILINGUAL/SPANISH | Philadelphia PA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2626465?s=gh-retail-jobs-2027) |
@@ -278,10 +278,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Trane Technologies** | 1st shift Machine Operator | St Paul, Minnesota | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-15682?s=gh-retail-jobs-2027) |
 | **Trane Technologies** | Brazer I-1 | Newberry, South Carolina | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-15683?s=gh-retail-jobs-2027) |
 | **Trane Technologies** | Material Change Owner | Hastings, Nebraska | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-15678?s=gh-retail-jobs-2027) |
-| **Fresenius Medical Care** | Biomedical Technician | Flint, MI | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0247360?s=gh-retail-jobs-2027) |
-| **Home Depot** | Product Manager - Payments | CUMBERLAND PKWY | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-homedepot-careerdepot-Req193300?s=gh-retail-jobs-2027) |
-| **Home Depot** | Associate Product Manager | GLOBAL CUSTOM COMMERCE/BLINDS | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-homedepot-careerdepot-Req193142?s=gh-retail-jobs-2027) |
-| **Home Depot** | Corporate Security Officer (Swing Shift) | PENNANT PARK, ATLANTA | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-homedepot-careerdepot-Req192774?s=gh-retail-jobs-2027) |
+| **Fresenius Medical Care** | Biomedical Technician | Flint, MI | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0247360?s=gh-retail-jobs-2027) |
+| **Home Depot** | Product Manager - Payments | CUMBERLAND PKWY | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-homedepot-careerdepot-Req193300?s=gh-retail-jobs-2027) |
+| **Home Depot** | Associate Product Manager | GLOBAL CUSTOM COMMERCE/BLINDS | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-homedepot-careerdepot-Req193142?s=gh-retail-jobs-2027) |
+| **Home Depot** | Corporate Security Officer (Swing Shift) | PENNANT PARK, ATLANTA | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-homedepot-careerdepot-Req192774?s=gh-retail-jobs-2027) |
 | **JLL** | Capital Markets Summer 2027 Internship - New York | New York, NY | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ528322?s=gh-retail-jobs-2027) |
 | **JLL** | Capital Markets Summer 2027 Internship - Boston, MA | Boston, MA | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ530236?s=gh-retail-jobs-2027) |
 | **T-Mobile** | Mobile Associate - Retail Sales | Menomonee Falls, Wisconsin | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tmobile-external-REQ373897?s=gh-retail-jobs-2027) |
@@ -316,15 +316,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AbbVie** | Manager, Statistics | North Chicago, IL | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990015281006?s=gh-retail-jobs-2027) |
 | **Eurofins** | Scientific Program Coordinator – Large Molecule Discovery | San Diego, CA | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000149714259?s=gh-retail-jobs-2027) |
 | **Veolia Environnement SA** | Service Technician I | Arlington, TX | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000149714219?s=gh-retail-jobs-2027) |
-| **Highmark Health** | Associate Business Systems Analyst | PA, Working at Home - Pennsylvania | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J286284?s=gh-retail-jobs-2027) |
-| **Highmark Health** | Health Coach/LPN - Central Erie Primary Care - Erie - FT | Erie PA, 16508, 3413 Cherry Street | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J283316?s=gh-retail-jobs-2027) |
-| **Highmark Health** | EKG Technician | Erie PA, 16502 | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J284106?s=gh-retail-jobs-2027) |
-| **Eurofins** | Formulation Development Chemist | Foster City, CA | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000149712740?s=gh-retail-jobs-2027) |
+| **Highmark Health** | Associate Business Systems Analyst | PA, Working at Home - Pennsylvania | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J286284?s=gh-retail-jobs-2027) |
+| **Highmark Health** | Health Coach/LPN - Central Erie Primary Care - Erie - FT | Erie PA, 16508, 3413 Cherry Street | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J283316?s=gh-retail-jobs-2027) |
+| **Highmark Health** | EKG Technician | Erie PA, 16502 | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J284106?s=gh-retail-jobs-2027) |
+| **Eurofins** | Formulation Development Chemist | Foster City, CA | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000149712740?s=gh-retail-jobs-2027) |
 | **Red Bull** | Merchandiser (Part Time) | Springfield, IL | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000149704899?s=gh-retail-jobs-2027) |
 | **Comcast** | Advertising Account Executive | MI - Southfield | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-comcast-comcast-careers-R441650?s=gh-retail-jobs-2027) |
 | **Thermo Fisher Scientific** | Associate Regional Market Development Manager | Austin Texas | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01366240?s=gh-retail-jobs-2027) |
 | **Thermo Fisher Scientific** | Lab Assistant - Multiple Shifts | Highland Heights Kentucky | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01357440?s=gh-retail-jobs-2027) |
 | **Thermo Fisher Scientific** | Pharmacovigilance Manager | Remote, North Carolina, USA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01366075?s=gh-retail-jobs-2027) |
+| **Comcast** | Headend Tech 1 | WA - Everett | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-comcast-comcast-careers-R443776?s=gh-retail-jobs-2027) |
 | **Johnson & Johnson** | Distribution Co-Op | Somerset, New Jersey, United... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-097287?s=gh-retail-jobs-2027) |
 | **Johnson & Johnson** | Product Management Co-Op | Jacksonville, Florida, United... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-098262?s=gh-retail-jobs-2027) |
 | **Johnson & Johnson** | OPEx Communications Co-Op | Gurabo, Puerto Rico, United... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-096859?s=gh-retail-jobs-2027) |
@@ -339,7 +340,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Cardinal Health** | Delivery Driver | Southfield, MI | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20187349?s=gh-retail-jobs-2027) |
 | **Cardinal Health** | Delivery Driver - Pharmacy Services | Bethlehem, PA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20187493?s=gh-retail-jobs-2027) |
 | **Cardinal Health** | Cherry Picker Operator - 1st Shift | Cranbury, NJ | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20187435?s=gh-retail-jobs-2027) |
-| **Comcast** | Xfinity Retail Sales Consultant- Bilingual Spanish | MA - Allston | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-comcast-comcast-careers-R444622?s=gh-retail-jobs-2027) |
 | **Santander** | 2027 Investment Banking NY Full Time Analyst-14 | Madison Ave Corp | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-santander-santandercareers-Req1600071?s=gh-retail-jobs-2027) |
 | **EXP** | Seasonal Retail Sales Support Specialist - Tommy Hilfiger Mens, Queens Center - Full Time | Elmhurst, NY, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-exp-REQ_805140?s=gh-retail-jobs-2027) |
 | **Olsson** | Electrical Engineering Internship - Facilities (Healthcare) | Dallas, TX | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-olsson-5423855008?s=gh-retail-jobs-2027) |
@@ -427,7 +427,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 34638 current opportunities from 32 companies**
+**🎯 34608 current opportunities from 32 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
