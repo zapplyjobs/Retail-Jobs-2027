@@ -94,8 +94,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Full Time - Cashier - Closing | Ypsilanti, MI (Ann Arbor) 0734 | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02653415?s=gh-retail-jobs-2027) |
-| **CVS Health** | Pharmacy Technician Front End - Full Time | NJ - Edison | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1012599?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Cashier - Closing | Ypsilanti, MI (Ann Arbor) 0734 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02653415?s=gh-retail-jobs-2027) |
+| **CVS Health** | Pharmacy Technician Front End - Full Time | NJ - Edison | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1012599?s=gh-retail-jobs-2027) |
 | **Verizon** | Retail Sales Associate | 1594 Military RD, Niagara... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1101118?s=gh-retail-jobs-2027) |
 | **Lowe's** | Full Time - Sales Associate - Tools - Day | Chandler, AZ (Ocotillo) 2582 | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02653195?s=gh-retail-jobs-2027) |
 | **Lowe's** | Full Time - Cashier - Opening | Prince George, VA 2918 | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02653183?s=gh-retail-jobs-2027) |
@@ -162,9 +162,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Full Time - Receiver/Stocker - Day | Upper Marlboro, MD (Largo) 0702 | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02653376?s=gh-retail-jobs-2027) |
-| **Lowe's** | Full Time - Receiver/Stocker - Day | Upper Marlboro, MD (Largo) 0702 | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02653349?s=gh-retail-jobs-2027) |
-| **Lowe's** | Part Time - Fulfillment Associate - Flexible | Silverthorne, CO 3206 | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02653344?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Receiver/Stocker - Day | Upper Marlboro, MD (Largo) 0702 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02653376?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Receiver/Stocker - Day | Upper Marlboro, MD (Largo) 0702 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02653349?s=gh-retail-jobs-2027) |
+| **Lowe's** | Part Time - Fulfillment Associate - Flexible | Silverthorne, CO 3206 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02653344?s=gh-retail-jobs-2027) |
 | **Target** | Full Time Hourly Warehouse Operations (T0556) | Tifton, GA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447562?s=gh-retail-jobs-2027) |
 | **Target** | Full Time Hourly Warehouse Operations (T3808) | Midway, GA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447565?s=gh-retail-jobs-2027) |
 | **Target** | Full Time Hourly Warehouse Operations (T3811) | Newton, NC | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447662?s=gh-retail-jobs-2027) |
@@ -263,12 +263,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Intern | TX - Whitehouse | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1050091?s=gh-retail-jobs-2027) |
-| **CVS Health** | In-Home Health - Clinician (Per Diem)- Portland ME | ME - Portland | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1049376?s=gh-retail-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | TX - Hutto | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1050013?s=gh-retail-jobs-2027) |
-| **Fresenius Medical Care** | Outpatient Registered Nurse - RN - Dialysis | Bryn Mawr, PA | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0270308?s=gh-retail-jobs-2027) |
-| **Fresenius Medical Care** | Patient Care Technician -  PCT | Waianae, HI | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0269900?s=gh-retail-jobs-2027) |
-| **Fresenius Medical Care** | Patient Care Technician - PCT | Ewa Beach, HI | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0270152?s=gh-retail-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | TX - Whitehouse | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1050091?s=gh-retail-jobs-2027) |
+| **CVS Health** | In-Home Health - Clinician (Per Diem)- Portland ME | ME - Portland | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1049376?s=gh-retail-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | TX - Hutto | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1050013?s=gh-retail-jobs-2027) |
+| **Fresenius Medical Care** | Outpatient Registered Nurse - RN - Dialysis | Bryn Mawr, PA | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0270308?s=gh-retail-jobs-2027) |
+| **Fresenius Medical Care** | Patient Care Technician -  PCT | Waianae, HI | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0269900?s=gh-retail-jobs-2027) |
+| **Fresenius Medical Care** | Patient Care Technician - PCT | Ewa Beach, HI | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0270152?s=gh-retail-jobs-2027) |
 | **Thermo Fisher Scientific** | FSP - Scientist: Immunology | San Diego, California, USA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01367019?s=gh-retail-jobs-2027) |
 | **Cox** | Field Sales Representative (Manheim) | New Jersey 110 | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682735?s=gh-retail-jobs-2027) |
 | **LabCorp** | Intern - IT Operations | Indianapolis IN | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2631321?s=gh-retail-jobs-2027) |
