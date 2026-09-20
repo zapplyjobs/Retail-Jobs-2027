@@ -94,8 +94,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Technician Front End Full Time, Omnicare | Edison | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0982780?s=gh-retail-jobs-2027) |
-| **CVS Health** | Pharmacy Technician Front End | NY - Ballston Spa | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0983210?s=gh-retail-jobs-2027) |
+| **CVS Health** | Pharmacy Technician Front End Full Time, Omnicare | Edison | 55m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0982780?s=gh-retail-jobs-2027) |
+| **CVS Health** | Pharmacy Technician Front End | NY - Ballston Spa | 55m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0983210?s=gh-retail-jobs-2027) |
 | **Albertsons** | Front End Entry Level | Allendale, NJ, United States | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-768743?s=gh-retail-jobs-2027) |
 | **Albertsons** | Front End Entry Level | Ridgecrest, CA, United States | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-768745?s=gh-retail-jobs-2027) |
 | **AutoZone** | Retail Sales Associate – Part Time | Saginaw, TX, United States | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-155643?s=gh-retail-jobs-2027) |
@@ -139,7 +139,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Comcast** | Customer Service Sales Representative (TSX) | Virtual | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-comcast-comcast-careers-R440248?s=gh-retail-jobs-2027) |
 | **Hilton** | Valet Parking Cashier Attendant (Part-Time) - Grand Wailea, A Waldorf Astoria Resort | Wailea, HI, United States | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-223749?s=gh-retail-jobs-2027) |
 | **Red Bull** | Merchandising Manager | Commack, NY | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000149919670?s=gh-retail-jobs-2027) |
-| **Home Depot** | Merchandising Assistant Store Manager in Training | STATE BRIDGE RD STORE | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-homedepot-careerdepot-Req191461?s=gh-retail-jobs-2027) |
+| **Home Depot** | Merchandising Assistant Store Manager in Training | STATE BRIDGE RD STORE | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-homedepot-careerdepot-Req191461?s=gh-retail-jobs-2027) |
 | **Trane Technologies** | Customer Sales Associate | Tinley Park, Illinois | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-15580?s=gh-retail-jobs-2027) |
 | **Home Depot** | Merchandising Assistant Store Manager In Training | POCATELLO STORE | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-homedepot-careerdepot-Req193577?s=gh-retail-jobs-2027) |
 | **T-Mobile** | Customer Service Account Associate - Salem, OR | Salem, Oregon | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tmobile-external-REQ347325?s=gh-retail-jobs-2027) |
@@ -264,12 +264,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Technician - Back End | CA - Lodi | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0940711?s=gh-retail-jobs-2027) |
-| **CVS Health** | Pharmacy Technician Data Entry 2nd Shift - Onsite | CA - Canoga Park | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0979957?s=gh-retail-jobs-2027) |
-| **CVS Health** | Medical Scribe | OH - Dayton | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1032766?s=gh-retail-jobs-2027) |
+| **CVS Health** | Pharmacy Technician - Back End | CA - Lodi | 55m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0940711?s=gh-retail-jobs-2027) |
+| **CVS Health** | Pharmacy Technician Data Entry 2nd Shift - Onsite | CA - Canoga Park | 55m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0979957?s=gh-retail-jobs-2027) |
+| **CVS Health** | Medical Scribe | OH - Dayton | 55m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1032766?s=gh-retail-jobs-2027) |
 | **Lowe's** | Full Time - CDL Delivery Driver | Celina, TX 3528 | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02653514?s=gh-retail-jobs-2027) |
 | **Lowe's** | Full Time - CDL Delivery Driver | Celina, TX 3528 | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02653513?s=gh-retail-jobs-2027) |
-| **Olsson** | Project Manager - Water/Wastewater | Tulsa, OK | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-olsson-5429627008?s=gh-retail-jobs-2027) |
+| **Olsson** | Project Manager - Water/Wastewater | Tulsa, OK | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-olsson-5429627008?s=gh-retail-jobs-2027) |
 | **Olsson** | Mechanical Engineer - Healthcare Buildings | Fort Worth, TX | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-olsson-5429626008?s=gh-retail-jobs-2027) |
 | **Albertsons** | Deli Clerk | Belgrade, MT, United States | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-768742?s=gh-retail-jobs-2027) |
 | **Albertsons** | Fresh Cut Produce Clerk | Nampa, ID, United States | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-768746?s=gh-retail-jobs-2027) |
