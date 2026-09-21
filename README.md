@@ -65,7 +65,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Target** | Starbucks Barista | Poway, CA | 55m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000454071?s=gh-retail-jobs-2027) |
+| **Target** | Starbucks Barista | Poway, CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000454071?s=gh-retail-jobs-2027) |
 | **Target** | Starbucks Barista | Dublin, CA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000454053?s=gh-retail-jobs-2027) |
 | **Kroger** | STARBUCKS/BARISTA | Peoria, AZ, United States | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-231756?s=gh-retail-jobs-2027) |
 | **Target** | Starbucks Barista | Sacramento, CA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000454185?s=gh-retail-jobs-2027) |
@@ -94,11 +94,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Verizon** | Retail Sales Associate | 1455 E Whitestone BLVD, Cedar... | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1099975?s=gh-retail-jobs-2027) |
-| **Lowe's** | Full Time - Cashier - Opening | Edmond, OK 1549 | 36m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02653579?s=gh-retail-jobs-2027) |
-| **Target** | Guest Advocate (Cashier or Front of Store Attendant/Cart Attendant) (T2234) | Rowlett, TX | 55m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000414011?s=gh-retail-jobs-2027) |
-| **Target** | Guest Advocate (Cashier or Front of Store Attendant/Cart Attendant) (T2235) | Riverview, FL | 55m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000414016?s=gh-retail-jobs-2027) |
-| **Target** | Guest Advocate (Cashier or Front of Store Attendant/Cart Attendant) (T2236) | Phoenix, AZ | 55m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000414022?s=gh-retail-jobs-2027) |
+| **Verizon** | Retail Sales Associate | 1455 E Whitestone BLVD, Cedar... | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1099975?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Cashier - Opening | Edmond, OK 1549 | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02653579?s=gh-retail-jobs-2027) |
+| **Target** | Guest Advocate (Cashier or Front of Store Attendant/Cart Attendant) (T2234) | Rowlett, TX | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000414011?s=gh-retail-jobs-2027) |
+| **Target** | Guest Advocate (Cashier or Front of Store Attendant/Cart Attendant) (T2235) | Riverview, FL | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000414016?s=gh-retail-jobs-2027) |
+| **Target** | Guest Advocate (Cashier or Front of Store Attendant/Cart Attendant) (T2236) | Phoenix, AZ | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000414022?s=gh-retail-jobs-2027) |
 | **Sherwin-Williams** | Bilingual Customer Service Specialist (Spanish) | Tampa, FL, United States | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-sherwin-williams-2623588?s=gh-retail-jobs-2027) |
 | **AutoZone** | AutoZone 2027 Summer Internship – Merchandising | Memphis, TN, United States | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-155443?s=gh-retail-jobs-2027) |
 | **AutoZone** | Retail Sales Associate – Part Time | Leland, NC, United States | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-155695?s=gh-retail-jobs-2027) |
@@ -163,9 +163,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Target** | GM and Food (General Merchandise, Closing, Fulfillment, Inbound, Food and Beverage , Food... | Alabaster, AL | 55m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000414182?s=gh-retail-jobs-2027) |
-| **Target** | GM and Food (General Merchandise, Closing, Fulfillment, Inbound, Food and Beverage , Food... | Lexington, SC | 55m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000414186?s=gh-retail-jobs-2027) |
-| **Target** | GM and Food (General Merchandise, Closing, Fulfillment, Inbound, Food and Beverage , Food... | 3550 S General Bruce Dr,Bldg... | 55m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000414190?s=gh-retail-jobs-2027) |
+| **Target** | GM and Food (General Merchandise, Closing, Fulfillment, Inbound, Food and Beverage , Food... | Alabaster, AL | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000414182?s=gh-retail-jobs-2027) |
+| **Target** | GM and Food (General Merchandise, Closing, Fulfillment, Inbound, Food and Beverage , Food... | Lexington, SC | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000414186?s=gh-retail-jobs-2027) |
+| **Target** | GM and Food (General Merchandise, Closing, Fulfillment, Inbound, Food and Beverage , Food... | 3550 S General Bruce Dr,Bldg... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000414190?s=gh-retail-jobs-2027) |
 | **Cardinal Health** | Warehouse Associate (4 day/week, 1st shift) | Elgin, IL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20187782?s=gh-retail-jobs-2027) |
 | **Cardinal Health** | Warehouse Associate (4 day/week, 1st shift) | Elgin, IL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20187781?s=gh-retail-jobs-2027) |
 | **Cardinal Health** | Warehouse Associate (Nights) | Aurora, IL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20187610?s=gh-retail-jobs-2027) |
@@ -264,16 +264,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Manager | FL - Aventura | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1048904?s=gh-retail-jobs-2027) |
-| **Fresenius Medical Care** | Patient Services Assistant | Rockingham, WA | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0268220?s=gh-retail-jobs-2027) |
-| **Fresenius Medical Care** | Dialysis Clinical Manager Registered Nurse - RN | Miami Dade, FL | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0268972?s=gh-retail-jobs-2027) |
-| **Johnson & Johnson** | Field Reimbursement Manager, Neuroscience – (Manhattan, NY) – Patient Engagement & Customer... | New York Any City | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-098919?s=gh-retail-jobs-2027) |
-| **Target** | Specialty Sales (Style, Tech, Beauty) (T2289) | Tampa, FL | 55m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000414228?s=gh-retail-jobs-2027) |
-| **Target** | Specialty Sales (Style, Tech, Beauty) (T2295) | Cicero, NY | 55m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000414244?s=gh-retail-jobs-2027) |
-| **Target** | Specialty Sales (Style, Tech, Beauty) (T2301) | Brunswick, GA | 55m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000414262?s=gh-retail-jobs-2027) |
-| **JLL** | Assistant Surveyor | Birmingham, GBR | 55m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ536546?s=gh-retail-jobs-2027) |
-| **LabCorp** | IOP Phlebotomist | Covington LA | 56m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2632270?s=gh-retail-jobs-2027) |
-| **LabCorp** | Specimen Processor III (2nd shift) | New York NY | 56m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2624892?s=gh-retail-jobs-2027) |
+| **CVS Health** | Pharmacy Manager | FL - Aventura | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1048904?s=gh-retail-jobs-2027) |
+| **Fresenius Medical Care** | Patient Services Assistant | Rockingham, WA | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0268220?s=gh-retail-jobs-2027) |
+| **Fresenius Medical Care** | Dialysis Clinical Manager Registered Nurse - RN | Miami Dade, FL | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0268972?s=gh-retail-jobs-2027) |
+| **Johnson & Johnson** | Field Reimbursement Manager, Neuroscience – (Manhattan, NY) – Patient Engagement & Customer... | New York Any City | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-098919?s=gh-retail-jobs-2027) |
+| **Target** | Specialty Sales (Style, Tech, Beauty) (T2289) | Tampa, FL | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000414228?s=gh-retail-jobs-2027) |
+| **Target** | Specialty Sales (Style, Tech, Beauty) (T2295) | Cicero, NY | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000414244?s=gh-retail-jobs-2027) |
+| **Target** | Specialty Sales (Style, Tech, Beauty) (T2301) | Brunswick, GA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000414262?s=gh-retail-jobs-2027) |
+| **JLL** | Assistant Surveyor | Birmingham, GBR | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ536546?s=gh-retail-jobs-2027) |
+| **LabCorp** | IOP Phlebotomist | Covington LA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2632270?s=gh-retail-jobs-2027) |
+| **LabCorp** | Specimen Processor III (2nd shift) | New York NY | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2624892?s=gh-retail-jobs-2027) |
 | **JLL** | Assistant Property Manager | Perth, WA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ536091?s=gh-retail-jobs-2027) |
 | **JLL** | Curation/Mailroom Coordinator | Perth, WA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ535479?s=gh-retail-jobs-2027) |
 | **Fresenius Medical Care** | Outpatient Registered Nurse - RN | Southfield, MI | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0269856?s=gh-retail-jobs-2027) |
