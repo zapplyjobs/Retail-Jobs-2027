@@ -271,7 +271,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | **Target** | Micromaintenance Tech | Upper Marlboro, MD | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000475477?s=gh-retail-jobs-2027) |
 | **Highmark Health** | RN Vascular Access Team (VAT) (Full Time 36 Hours), West Penn Hospital | Pittsburgh PA, 15224, West Penn... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J287824?s=gh-retail-jobs-2027) |
-| **Abbott** | Logistics Specialist | United States > Madison : 650... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31163769?s=gh-retail-jobs-2027) |
+| **Abbott** | Logistics Specialist | United States > Madison : 650... | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31163769?s=gh-retail-jobs-2027) |
 | **TJX** | Loss Prevention Associate | Seattle, Washington | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-tjx-REQ163168?s=gh-retail-jobs-2027) |
 | **TJX** | Assistant Store Manager | Manhattan, Kansas | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-tjx-REQ162755?s=gh-retail-jobs-2027) |
 | **TJX** | Engagement Coordinator | Southern Pines, North Carolina | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-tjx-REQ162723?s=gh-retail-jobs-2027) |
@@ -285,7 +285,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Albertsons** | Retail Sales and Store Support | Hilo, HI, United States | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-748558?s=gh-retail-jobs-2027) |
 | **Albertsons** | In-Store Shopper | Hilo, HI, United States | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-748556?s=gh-retail-jobs-2027) |
 | **Albertsons** | In-Store Shopper | Sacramento, CA, United States | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-775983?s=gh-retail-jobs-2027) |
-| **Starbucks** | decision scientist | 2401 Utah Ave S #800, Seattle,... | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/starbucks-260080851?s=gh-retail-jobs-2027) |
+| **Starbucks** | decision scientist | 2401 Utah Ave S #800, Seattle,... | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/starbucks-260080851?s=gh-retail-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician - PCT | Chicago, IL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0268575?s=gh-retail-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician - PCT | Chicago, IL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0264501?s=gh-retail-jobs-2027) |
 | **Fresenius Medical Care** | Patient Care Technician- PCT- Training Provided | Philadelphia, PA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272253?s=gh-retail-jobs-2027) |
