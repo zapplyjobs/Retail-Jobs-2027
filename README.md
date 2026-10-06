@@ -94,11 +94,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Part Time - Customer Service Associate - Tool Rental - Flexible | Rosenberg, TX 1898 | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02672609?s=gh-retail-jobs-2027) |
+| **Lowe's** | Part Time - Customer Service Associate - Tool Rental - Flexible | Rosenberg, TX 1898 | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02672609?s=gh-retail-jobs-2027) |
 | **Verizon** | Retail Sales Associate | 2339 8th Ave S, Nashville,... | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1100321?s=gh-retail-jobs-2027) |
 | **Verizon** | Retail Sales Associate | 10120 W McDowell RD, Avondale,... | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1100693?s=gh-retail-jobs-2027) |
 | **Verizon** | Retail Sales Associate | 100 Prosperity Ln, Stafford,... | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1098545?s=gh-retail-jobs-2027) |
-| **Lowe's** | Full Time - Sales Associate - ProServices - Opening | Wasilla, AK 2512 | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02672514?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Sales Associate - ProServices - Opening | Wasilla, AK 2512 | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02672514?s=gh-retail-jobs-2027) |
 | **Target** | Team Member Trainer | Austin, TX | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000476541?s=gh-retail-jobs-2027) |
 | **Sysco** | Merchandising Coordinator | Sysco Virginia Main | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R269554?s=gh-retail-jobs-2027) |
 | **CVS Health** | Store Associate | OH - Twinsburg | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1064899?s=gh-retail-jobs-2027) |
@@ -159,7 +159,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Part Time - Fulfillment Associate - Flexible | Rosenberg, TX 1898 | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02672608?s=gh-retail-jobs-2027) |
+| **Lowe's** | Part Time - Fulfillment Associate - Flexible | Rosenberg, TX 1898 | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02672608?s=gh-retail-jobs-2027) |
 | **Target** | Overnight Inbound (Stocking) (T1466) | Shelby Township, MI | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000476580?s=gh-retail-jobs-2027) |
 | **Target** | Seasonal: Overnight Inbound (Stocking) (T1251) | Auburn Hills, MI | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000476578?s=gh-retail-jobs-2027) |
 | **Target** | Seasonal: Overnight Inbound (Stocking) (T1952) | Chesterfield, MO | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000476575?s=gh-retail-jobs-2027) |
@@ -264,18 +264,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Part Time - Loader/Cart Associate - Flexible | Rosenberg, TX 1898 | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02672610?s=gh-retail-jobs-2027) |
-| **Highmark Health** | Patient Care Technician I - Medical Progressive Care - Jefferson Hospital - Casual | Jefferson Hills PA, 15025, 565... | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J287491?s=gh-retail-jobs-2027) |
-| **LabCorp** | Medical Courier | Westborough MA | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2634818?s=gh-retail-jobs-2027) |
-| **JLL** | Customer Experience Host | Birmingham, GBR | 55m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ538172?s=gh-retail-jobs-2027) |
+| **Lowe's** | Part Time - Loader/Cart Associate - Flexible | Rosenberg, TX 1898 | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02672610?s=gh-retail-jobs-2027) |
+| **Highmark Health** | Patient Care Technician I - Medical Progressive Care - Jefferson Hospital - Casual | Jefferson Hills PA, 15025, 565... | 31m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J287491?s=gh-retail-jobs-2027) |
+| **LabCorp** | Medical Courier | Westborough MA | 51m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2634818?s=gh-retail-jobs-2027) |
+| **JLL** | Customer Experience Host | Birmingham, GBR | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ538172?s=gh-retail-jobs-2027) |
 | **Target** | Target Security Specialist | Compton, CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000476442?s=gh-retail-jobs-2027) |
 | **Target** | Human Resources Expert | Fort Wayne, IN | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000476512?s=gh-retail-jobs-2027) |
 | **Target** | Target Security Specialist | BROOKLYN, NY | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000476552?s=gh-retail-jobs-2027) |
-| **Fresenius Medical Care** | Patient Care Technician Preceptor - PCT - Dialysis | Sumter, SC | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0271366?s=gh-retail-jobs-2027) |
-| **Fresenius Medical Care** | Registered Dietitian | Smyrna, TN | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272683?s=gh-retail-jobs-2027) |
-| **Verizon** | Account Manager - SMB Sales | 2325 Fairview AVE N, Roseville,... | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1101138?s=gh-retail-jobs-2027) |
-| **Verizon** | Technician Business/Government | East Concord, New York | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1097151?s=gh-retail-jobs-2027) |
-| **Verizon** | Account Manager SMB- Business Sales | Indiana, Pennsylvania | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1097155?s=gh-retail-jobs-2027) |
+| **Fresenius Medical Care** | Patient Care Technician Preceptor - PCT - Dialysis | Sumter, SC | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0271366?s=gh-retail-jobs-2027) |
+| **Fresenius Medical Care** | Registered Dietitian | Smyrna, TN | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0272683?s=gh-retail-jobs-2027) |
+| **Verizon** | Account Manager - SMB Sales | 2325 Fairview AVE N, Roseville,... | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1101138?s=gh-retail-jobs-2027) |
+| **Verizon** | Technician Business/Government | East Concord, New York | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1097151?s=gh-retail-jobs-2027) |
+| **Verizon** | Account Manager SMB- Business Sales | Indiana, Pennsylvania | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1097155?s=gh-retail-jobs-2027) |
 | **Thermo Fisher Scientific** | Account Executive (Protein Diagnostics) - Texas | Texas | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01365468?s=gh-retail-jobs-2027) |
 | **Thermo Fisher Scientific** | Engineer II, Field Service | Remote, Texas, USA | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01369509?s=gh-retail-jobs-2027) |
 | **Thermo Fisher Scientific** | Global Market Development Specialist III | Waltham, Massachusetts, USA | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01366796?s=gh-retail-jobs-2027) |
@@ -287,9 +287,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lowe's** | Assistant General Manager | Minersville, PA RDC 0961 | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02672495?s=gh-retail-jobs-2027) |
 | **LabCorp** | MCT Laboratory Technologist Trainee | Saint Paul MN | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2632591?s=gh-retail-jobs-2027) |
 | **LabCorp** | Specimen Processor- Full Time- 3rd Shift | Dallas TX | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2628056?s=gh-retail-jobs-2027) |
-| **Abbott** | Customer Support Specialist II   Tues-Sat 6AM - 2:30PM | United States of America : Remote | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31161672?s=gh-retail-jobs-2027) |
-| **Abbott** | Associate Product Manager-CRM Cardiac Rhythm Management | United States > Austin : 8701... | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31158830?s=gh-retail-jobs-2027) |
-| **Abbott** | COOP Student - Engineering | Puerto Rico - Barceloneta | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31094887?s=gh-retail-jobs-2027) |
+| **Abbott** | Customer Support Specialist II   Tues-Sat 6AM - 2:30PM | United States of America : Remote | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31161672?s=gh-retail-jobs-2027) |
+| **Abbott** | Associate Product Manager-CRM Cardiac Rhythm Management | United States > Austin : 8701... | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31158830?s=gh-retail-jobs-2027) |
+| **Abbott** | COOP Student - Engineering | Puerto Rico - Barceloneta | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31094887?s=gh-retail-jobs-2027) |
 | **Sysco** | Analyst, Government Relations - GSC - US | Sysco Corporate | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R268189?s=gh-retail-jobs-2027) |
 | **Sysco** | Dispatcher | Sysco Tampa Bay | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R270329?s=gh-retail-jobs-2027) |
 | **Sysco** | Facility Technician II - SIGN ON BONUS FOR NEW HIRES UPTO  $7,500 | Sysco Chicago | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R223040?s=gh-retail-jobs-2027) |
