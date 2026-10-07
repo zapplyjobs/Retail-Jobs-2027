@@ -269,9 +269,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Highmark Health** | Graduate Nurse MICU, Allegheny General | Pittsburgh PA, 15212 | 52m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J281512?s=gh-retail-jobs-2027) |
-| **Highmark Health** | RN Operating Room, Surgical Institute (Night) Allegheny General | Pittsburgh PA, 15212 | 52m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J278016?s=gh-retail-jobs-2027) |
-| **Highmark Health** | RN Operating Room, Surgical Institute (Night) Allegheny General | Pittsburgh PA, 15212 | 52m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J279580?s=gh-retail-jobs-2027) |
+| **Highmark Health** | Graduate Nurse MICU, Allegheny General | Pittsburgh PA, 15212 | 58m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J281512?s=gh-retail-jobs-2027) |
+| **Highmark Health** | RN Operating Room, Surgical Institute (Night) Allegheny General | Pittsburgh PA, 15212 | 58m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J278016?s=gh-retail-jobs-2027) |
+| **Highmark Health** | RN Operating Room, Surgical Institute (Night) Allegheny General | Pittsburgh PA, 15212 | 58m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J279580?s=gh-retail-jobs-2027) |
 | **Sysco** | Sales Representative | Sysco Riverside -  Distribution | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R270477?s=gh-retail-jobs-2027) |
 | **Sysco** | Sales Representative | Sysco Riverside -  Distribution | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R270471?s=gh-retail-jobs-2027) |
 | **Sysco** | Forklift Inbound | Greco Illinois | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R243541?s=gh-retail-jobs-2027) |
@@ -333,7 +333,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Lowe's** | Retail Sales – Part Time (Bilingual Preferred) | Bradenton, FL 0772 | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02665132?s=gh-retail-jobs-2027) |
 | **AbbVie** | Specialty Representative, Psychiatry - Libertyville, IL | Libertyville, IL | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990015941496?s=gh-retail-jobs-2027) |
 | **AbbVie** | Specialty Representative, Psychiatry - St. Petersburg, FL | St. Petersburg, FL | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990015937266?s=gh-retail-jobs-2027) |
-| **AbbVie** | Specialty Representative, Psychiatry - Gainesville, FL | Gainesville, FL | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990015937146?s=gh-retail-jobs-2027) |
+| **AbbVie** | Specialty Representative, Psychiatry - Gainesville, FL | Gainesville, FL | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990015937146?s=gh-retail-jobs-2027) |
 | **Starbucks** | maintenance mechanic, 2nd shift | 3000 Espresso Way, York,... | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/starbucks-260027666?s=gh-retail-jobs-2027) |
 | **Merck & Co.** | Specialist, Engineering (Onsite) | USA - New Jersey - Rahway | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R407653?s=gh-retail-jobs-2027) |
 | **Merck & Co.** | Specialist, Planning & Scheduling (Onsite) | USA - Pennsylvania - West Point | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R420837?s=gh-retail-jobs-2027) |
