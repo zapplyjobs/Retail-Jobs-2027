@@ -94,9 +94,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Full Time - Sales Associate - Building Materials - Day | Phillipsburg, NJ 1590 | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676154?s=gh-retail-jobs-2027) |
-| **Lowe's** | Full Time - Sales Associate - Building Materials - Opening | Phillipsburg, NJ 1590 | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676153?s=gh-retail-jobs-2027) |
-| **Lowe's** | Full Time - Sales Associate - Building Materials - Opening | Battle Creek, MI 0069 | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676147?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Sales Associate - Building Materials - Day | Phillipsburg, NJ 1590 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676154?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Sales Associate - Building Materials - Opening | Phillipsburg, NJ 1590 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676153?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Sales Associate - Building Materials - Opening | Battle Creek, MI 0069 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676147?s=gh-retail-jobs-2027) |
 | **Albertsons** | Front End Entry Level | Orting, WA, United States | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-778576?s=gh-retail-jobs-2027) |
 | **Kroger** | Cashier | Somerset, KY, United States | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-238625?s=gh-retail-jobs-2027) |
 | **Kroger** | Courtesy Clerk/Grocery Bagger | Somerset, KY, United States | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-238651?s=gh-retail-jobs-2027) |
@@ -166,9 +166,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Part Time - Receiver/Stocker - Flexible | Elkhart, IN 2942 | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676151?s=gh-retail-jobs-2027) |
-| **Lowe's** | Part Time - Fulfillment Associate - Flexible | Columbus, OH (S Columbus) 1595 | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676145?s=gh-retail-jobs-2027) |
-| **Lowe's** | Part Time - Receiver/Stocker - Flexible | Elkhart, IN 2942 | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676142?s=gh-retail-jobs-2027) |
+| **Lowe's** | Part Time - Receiver/Stocker - Flexible | Elkhart, IN 2942 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676151?s=gh-retail-jobs-2027) |
+| **Lowe's** | Part Time - Fulfillment Associate - Flexible | Columbus, OH (S Columbus) 1595 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676145?s=gh-retail-jobs-2027) |
+| **Lowe's** | Part Time - Receiver/Stocker - Flexible | Elkhart, IN 2942 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676142?s=gh-retail-jobs-2027) |
 | **Abbott** | Assistant Warehouse Supervisor | United States - Virginia -... | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31164384?s=gh-retail-jobs-2027) |
 | **Target** | Full Time Hourly Warehouse Operations Openings (T0594) | Lugoff, SC | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447571?s=gh-retail-jobs-2027) |
 | **Target** | Full Time Hourly Warehouse Operations Openings (T3888) | Upper Marlboro, MD | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447650?s=gh-retail-jobs-2027) |
@@ -273,7 +273,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Patient Growth Specialist | PA - Norristown | 36m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1062304?s=gh-retail-jobs-2027) |
+| **CVS Health** | Patient Growth Specialist | PA - Norristown | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1062304?s=gh-retail-jobs-2027) |
 | **Abbott** | Industrial Maintenance Technician - 12 hour night shift - Columbus Plant | United States - Ohio - Columbus | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31164649?s=gh-retail-jobs-2027) |
 | **Abbott** | Powerhouse Engineer - 2nd shift - Columbus Plant | United States - Ohio - Columbus | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31164544?s=gh-retail-jobs-2027) |
 | **Abbott** | Commercial Paralegal | United States - California -... | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31163092?s=gh-retail-jobs-2027) |
