@@ -94,10 +94,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Full Time - Sales Associate - Paint - Day | Silverthorne, CO 3206 | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676493?s=gh-retail-jobs-2027) |
-| **CVS Health** | Store Associate | VA - Leesburg | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1072219?s=gh-retail-jobs-2027) |
-| **CVS Health** | Store Associate | MN - Plymouth | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1072209?s=gh-retail-jobs-2027) |
-| **CVS Health** | Pharmacy Technician - Front End | WA - Spokane | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0968888?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Sales Associate - Paint - Day | Silverthorne, CO 3206 | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676493?s=gh-retail-jobs-2027) |
+| **CVS Health** | Store Associate | VA - Leesburg | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1072219?s=gh-retail-jobs-2027) |
+| **CVS Health** | Store Associate | MN - Plymouth | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1072209?s=gh-retail-jobs-2027) |
+| **CVS Health** | Pharmacy Technician - Front End | WA - Spokane | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0968888?s=gh-retail-jobs-2027) |
 | **Lowe's** | Full Time - Sales Associate - Outside Lawn & Garden - Closing | Holland, MI 0330 | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676406?s=gh-retail-jobs-2027) |
 | **Lowe's** | Full Time - Cashier - Opening | South Morgantown, WV 1671 | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676397?s=gh-retail-jobs-2027) |
 | **Kroger** | FRONT END/CASHIER | Cincinnati, OH, United States | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-238896?s=gh-retail-jobs-2027) |
@@ -165,8 +165,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Part Time - Receiver/Stocker - Flexible | Glen Allen, VA (Short Pump) 0687 | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676490?s=gh-retail-jobs-2027) |
-| **Sysco** | Warehouse Order Selector, Night | FP- Coastal SBProduce | 52m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R264913?s=gh-retail-jobs-2027) |
+| **Lowe's** | Part Time - Receiver/Stocker - Flexible | Glen Allen, VA (Short Pump) 0687 | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676490?s=gh-retail-jobs-2027) |
+| **Sysco** | Warehouse Order Selector, Night | FP- Coastal SBProduce | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R264913?s=gh-retail-jobs-2027) |
 | **Target** | Full Time Hourly Warehouse Associate Evergreen Requisition Seasonal Openings (T3861) | Dallas, TX | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447618?s=gh-retail-jobs-2027) |
 | **Target** | Seasonal Full Time Hourly Warehouse Associate Openings (T3886) | Detroit, MI | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447645?s=gh-retail-jobs-2027) |
 | **Target** | Full Time Hourly Warehouse Operations (T0556) | Tifton, GA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447562?s=gh-retail-jobs-2027) |
@@ -178,7 +178,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **EXP** | Retail Fulfillment Associate, Staten Island - Part Time | Staten Island, NY, United States | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-exp-REQ_816268?s=gh-retail-jobs-2027) |
 | **EXP** | Seasonal Fulfillment and Receiving Support Associate, Meridian | Okemos, MI, United States | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-exp-REQ_816253?s=gh-retail-jobs-2027) |
 | **Lowe's** | Full Time - Receiver/Stocker - Day | Charlottesville, VA 0517 | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676375?s=gh-retail-jobs-2027) |
-| **Lowe's** | Part Time - Fulfillment Associate - Flexible | Pineville, LA 2965 | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676344?s=gh-retail-jobs-2027) |
+| **Lowe's** | Part Time - Fulfillment Associate - Flexible | Pineville, LA 2965 | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676344?s=gh-retail-jobs-2027) |
 | **Cardinal Health** | Warehouse Associate - Weekend Shift | TX - Fort Worth - CAH-Home... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20188757?s=gh-retail-jobs-2027) |
 | **CVS Health** | Fulfillment Packaging Assistant | TN - Bartlett | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1029357?s=gh-retail-jobs-2027) |
 | **CVS Health** | General Warehouse | RI - Woonsocket | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1066491?s=gh-retail-jobs-2027) |
@@ -272,11 +272,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Part Time - Loader/Cart Associate - Flexible | Glen Allen, VA (Short Pump) 0687 | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676488?s=gh-retail-jobs-2027) |
-| **CVS Health** | Pharmacy Technician Back End | MD - Annapolis Junction | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0971208?s=gh-retail-jobs-2027) |
-| **CVS Health** | Pharmacy Technician, Back End Full Time | NY - Ballston Spa | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0957225?s=gh-retail-jobs-2027) |
-| **CVS Health** | Pharmacy Technician - Back End - 4pm-12:30am | CA - Lodi | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0958513?s=gh-retail-jobs-2027) |
-| **LabCorp** | Histotechnician | Seattle WA | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2636013?s=gh-retail-jobs-2027) |
+| **Lowe's** | Part Time - Loader/Cart Associate - Flexible | Glen Allen, VA (Short Pump) 0687 | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676488?s=gh-retail-jobs-2027) |
+| **CVS Health** | Pharmacy Technician Back End | MD - Annapolis Junction | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0971208?s=gh-retail-jobs-2027) |
+| **CVS Health** | Pharmacy Technician, Back End Full Time | NY - Ballston Spa | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0957225?s=gh-retail-jobs-2027) |
+| **CVS Health** | Pharmacy Technician - Back End - 4pm-12:30am | CA - Lodi | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0958513?s=gh-retail-jobs-2027) |
+| **LabCorp** | Histotechnician | Seattle WA | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2636013?s=gh-retail-jobs-2027) |
 | **Target** | Maintenance Technician 2 (L1) | Hampton, GA | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000477026?s=gh-retail-jobs-2027) |
 | **Target** | B2 Backup Yard Coordinator | Fridley, MN | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000476860?s=gh-retail-jobs-2027) |
 | **Lowe's** | Part Time - Loader/Cart Associate - Flexible | Warrington, PA 0735 | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02676410?s=gh-retail-jobs-2027) |
