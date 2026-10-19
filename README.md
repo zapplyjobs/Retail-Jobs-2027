@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Target** | Starbucks Barista (T1032) | Irving, TX | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000478051?s=gh-retail-jobs-2027) |
-| **Target** | Starbucks Barista (T1466) | Shelby Township, MI | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000478050?s=gh-retail-jobs-2027) |
-| **Target** | Starbucks Barista (T1313) | Troy, MI | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000478049?s=gh-retail-jobs-2027) |
+| **Target** | Starbucks Barista (T1032) | Irving, TX | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000478051?s=gh-retail-jobs-2027) |
+| **Target** | Starbucks Barista (T1466) | Shelby Township, MI | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000478050?s=gh-retail-jobs-2027) |
+| **Target** | Starbucks Barista (T1313) | Troy, MI | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000478049?s=gh-retail-jobs-2027) |
 | **Hilton** | Barista, Counter Offer - Hilton Anatole | Dallas, TX, United States | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-222997?s=gh-retail-jobs-2027) |
 | **Hilton** | Coffee Bar Attendant- Hilton Houston Post Oak by the Galleria | Houston, TX, United States | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-223722?s=gh-retail-jobs-2027) |
 | **Hilton** | Barista (Part Time) - Hilton Anatole | Dallas, TX, United States | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-227741?s=gh-retail-jobs-2027) |
@@ -94,9 +94,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Full Time - Merchandising Service Associate - Day | Warrington, PA 0735 | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02680471?s=gh-retail-jobs-2027) |
-| **Lowe's** | Full Time - Merchandising Service Associate - Day | Ruston, LA 2418 | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02680467?s=gh-retail-jobs-2027) |
-| **Lowe's** | Full Time - Merchandising Service Associate - Day | Ruston, LA 2418 | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02680466?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Merchandising Service Associate - Day | Warrington, PA 0735 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02680471?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Merchandising Service Associate - Day | Ruston, LA 2418 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02680467?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Merchandising Service Associate - Day | Ruston, LA 2418 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02680466?s=gh-retail-jobs-2027) |
 | **Albertsons** | Front End Entry Level | Gresham, OR, United States | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-782304?s=gh-retail-jobs-2027) |
 | **Albertsons** | Front End Entry Level | Pecos, TX, United States | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-782309?s=gh-retail-jobs-2027) |
 | **Kroger** | FRONT END/COURTESY CLERK | Eugene, OR, United States | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-225359?s=gh-retail-jobs-2027) |
@@ -144,9 +144,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Target** | 4am Inbound (Stocking) (T2486) | South Lebanon, OH | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000478041?s=gh-retail-jobs-2027) |
-| **Target** | 4am Inbound (Stocking) (T1037) | Springdale, OH | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000478040?s=gh-retail-jobs-2027) |
-| **Target** | Seasonal: Overnight Inbound (Stocking) (T1176) | Arlington Heights, IL | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000478039?s=gh-retail-jobs-2027) |
+| **Target** | 4am Inbound (Stocking) (T2486) | South Lebanon, OH | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000478041?s=gh-retail-jobs-2027) |
+| **Target** | 4am Inbound (Stocking) (T1037) | Springdale, OH | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000478040?s=gh-retail-jobs-2027) |
+| **Target** | Seasonal: Overnight Inbound (Stocking) (T1176) | Arlington Heights, IL | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000478039?s=gh-retail-jobs-2027) |
 | **Albertsons** | Night Crew Stocker | Felton, CA, United States | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-782307?s=gh-retail-jobs-2027) |
 | **Albertsons** | Night Crew Stocker | Burke, VA, United States | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-782308?s=gh-retail-jobs-2027) |
 | **Lowe's** | Full Time - Fulfillment Associate - Day | Erie, PA (W Erie) 1654 | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02680440?s=gh-retail-jobs-2027) |
@@ -241,16 +241,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Verizon** | Verizon Business Group: Solutions Architect Summer 2027 Internship | Irving, Texas | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1102418?s=gh-retail-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | VA - Richmond | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1074924?s=gh-retail-jobs-2027) |
-| **CVS Health** | Pharmacy Manager | FL - Miami Beach | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1077790?s=gh-retail-jobs-2027) |
-| **CVS Health** | Pharmacy Manager | FL - Cocoa | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1077805?s=gh-retail-jobs-2027) |
-| **LabCorp** | Service Representative | San Antonio TX | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2628955?s=gh-retail-jobs-2027) |
+| **Verizon** | Verizon Business Group: Solutions Architect Summer 2027 Internship | Irving, Texas | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1102418?s=gh-retail-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | VA - Richmond | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1074924?s=gh-retail-jobs-2027) |
+| **CVS Health** | Pharmacy Manager | FL - Miami Beach | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1077790?s=gh-retail-jobs-2027) |
+| **CVS Health** | Pharmacy Manager | FL - Cocoa | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1077805?s=gh-retail-jobs-2027) |
+| **LabCorp** | Service Representative | San Antonio TX | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2628955?s=gh-retail-jobs-2027) |
 | **T-Mobile** | Field Technician – Philadelphia, PA & Greater Delaware Valley | Fort Washington Pennsylvania | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tmobile-external-REQ372219?s=gh-retail-jobs-2027) |
 | **Target** | Target Security Specialist | Hemet, CA | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000477894?s=gh-retail-jobs-2027) |
 | **Target** | Human Resources Expert | 60 Smithfield Blvd,Ste 49... | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000478004?s=gh-retail-jobs-2027) |
 | **Target** | Target Security Specialist | Sacramento, CA | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000477994?s=gh-retail-jobs-2027) |
-| **JLL** | Capital Markets Intern | New York, NY | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ539913?s=gh-retail-jobs-2027) |
+| **JLL** | Capital Markets Intern | New York, NY | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ539913?s=gh-retail-jobs-2027) |
 | **Hilton** | Steward Dishwasher (Part Time) - Hilton Salt Lake City Center | Salt Lake City, UT, United States | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-223015?s=gh-retail-jobs-2027) |
 | **Hilton** | Cocktail Server- Signia by Hilton Indianapolis | Indianapolis, IN, United States | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-223840?s=gh-retail-jobs-2027) |
 | **Hilton** | Housekeeping Houseperson - Hilton Houston Post Oak by the Galleria | Houston, TX, United States | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-227738?s=gh-retail-jobs-2027) |
