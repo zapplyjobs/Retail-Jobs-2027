@@ -94,12 +94,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Full Time - Merchandising Service Associate - Day | Davie, FL 3315 | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02683576?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Merchandising Service Associate - Day | Davie, FL 3315 | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02683576?s=gh-retail-jobs-2027) |
 | **Abbott** | Customer Service Programs & Community Engagement Specialist | United States - California -... | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31162928?s=gh-retail-jobs-2027) |
 | **Lowe's** | Full Time - Merchandising Service Associate - Day | Charleston, SC (W Ashley) 0655 | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02683402?s=gh-retail-jobs-2027) |
 | **Lowe's** | Full Time - Cashier - Day | Scarborough, ME 2407 | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02683232?s=gh-retail-jobs-2027) |
 | **Albertsons** | Front End Entry Level | Amarillo, TX, United States | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-784527?s=gh-retail-jobs-2027) |
-| **CVS Health** | IT Customer Service Analyst | CT - Hartford | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1073955?s=gh-retail-jobs-2027) |
+| **CVS Health** | IT Customer Service Analyst | CT - Hartford | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1073955?s=gh-retail-jobs-2027) |
 | **CVS Health** | Store Associate | TX - Lubbock | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1082457?s=gh-retail-jobs-2027) |
 | **CVS Health** | Store Associate | TX - Fort Worth | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1082537?s=gh-retail-jobs-2027) |
 | **LabCorp** | Customer Service Support Representative - Onsite | Itasca IL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2628390?s=gh-retail-jobs-2027) |
@@ -233,7 +233,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Technician | GA - Hartwell | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1083926?s=gh-retail-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | GA - Hartwell | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1083926?s=gh-retail-jobs-2027) |
 | **Target** | Target Security Specialist | Fitchburg, WI | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000478516?s=gh-retail-jobs-2027) |
 | **Target** | Human Resource Expert | Moore, OK | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000478542?s=gh-retail-jobs-2027) |
 | **Target** | Target Security Specialist | Van Nuys, CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000478553?s=gh-retail-jobs-2027) |
@@ -270,7 +270,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Albertsons** | 2027 Pharmacy Graduate Intern | Baton Rouge, LA, United States | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-763857?s=gh-retail-jobs-2027) |
 | **Albertsons** | Fuel Station Attendant | Helena, MT, United States | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-784524?s=gh-retail-jobs-2027) |
 | **Albertsons** | Deli Clerk | Carmichael, CA, United States | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-784525?s=gh-retail-jobs-2027) |
-| **Sysco** | Specialist II, Sysco Technology Support | Sysco Minnesota | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R272782?s=gh-retail-jobs-2027) |
+| **Sysco** | Specialist II, Sysco Technology Support | Sysco Minnesota | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R272782?s=gh-retail-jobs-2027) |
 | **CVS Health** | Business Analytics Analyst | OH - Work from hom | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1039704?s=gh-retail-jobs-2027) |
 | **CVS Health** | Proposals - Analyst | IL Work from home | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1070924?s=gh-retail-jobs-2027) |
 | **Starbucks** | tea operator, 2nd shift M-F 2PM-10:30PM | 18411 | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/starbucks-260085995?s=gh-retail-jobs-2027) |
@@ -278,7 +278,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AbbVie** | 2027 Formulation Sciences Intern (PhD) | North Chicago, IL | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016354708?s=gh-retail-jobs-2027) |
 | **AbbVie** | Associate Scientist II, Biologics Drug Product Development | North Chicago, IL | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016354186?s=gh-retail-jobs-2027) |
 | **AbbVie** | Manufacturing Operator III, UD Fill - B1 Shift | Waco, TX | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016354146?s=gh-retail-jobs-2027) |
-| **Merck & Co.** | Associate Specialist, Engineering (Onsite) | USA - New Jersey - Rahway | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R423294?s=gh-retail-jobs-2027) |
+| **Merck & Co.** | Associate Specialist, Engineering (Onsite) | USA - New Jersey - Rahway | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R423294?s=gh-retail-jobs-2027) |
 | **LabCorp** | Float Medical Technologist | Seattle WA | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2637989?s=gh-retail-jobs-2027) |
 | **Starbucks** | machine operator, 2nd shift | 3000 Espresso Way, York,... | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/starbucks-260085923?s=gh-retail-jobs-2027) |
 | **Sysco** | Outbound Loader | Sysco Tampa Bay | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R267563?s=gh-retail-jobs-2027) |
