@@ -16,8 +16,8 @@
 <p align="center">🛍️ Retail jobs across the US, from store and warehouse roles to delivery. Refreshed daily.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Retail%20Jobs-30070-3FB950?style=flat&logo=briefcase" height="30" alt="Retail Jobs">
-  <img src="https://img.shields.io/badge/Sales%20Floor%20%26%20Customer%20Service-4269-2F81F7?style=flat&logo=briefcase" height="30" alt="Sales Floor & Customer Service">
+  <img src="https://img.shields.io/badge/Retail%20Jobs-30031-3FB950?style=flat&logo=briefcase" height="30" alt="Retail Jobs">
+  <img src="https://img.shields.io/badge/Sales%20Floor%20%26%20Customer%20Service-4262-2F81F7?style=flat&logo=briefcase" height="30" alt="Sales Floor & Customer Service">
   <img src="https://img.shields.io/badge/Companies-28-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
 </p>
@@ -106,9 +106,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **EXP** | Seasonal Retail Merchandising Associate - GIII Brands Dresses, Tysons Corner Center - Full Time | McLean, VA, United States | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-exp-REQ_820264?s=gh-retail-jobs-2027) |
 | **EXP** | Seasonal Retail Merchandising Associate - GIII Brands Dresses, Oak Brook Center - Full Time | Oak Brook, IL, United States | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-exp-REQ_820258?s=gh-retail-jobs-2027) |
 | **EXP** | Seasonal Retail Merchandising Associate - GIII Brands Dresses, Roosevelt Field - Full Time | Garden City, NY, United States | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-exp-REQ_820317?s=gh-retail-jobs-2027) |
+| **Albertsons** | Front End Entry Level | Arlington, VA, United States | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-748028?s=gh-retail-jobs-2027) |
 | **Albertsons** | Front End Entry Level | Holmes, PA, United States | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-765009?s=gh-retail-jobs-2027) |
 | **Albertsons** | Front End Entry Level | Rockville, MD, United States | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-784910?s=gh-retail-jobs-2027) |
-| **Albertsons** | Front End Entry Level | Rockville, MD, United States | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-784911?s=gh-retail-jobs-2027) |
 | **Sysco** | Merchandising Manager | Greco Colorado | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R272776?s=gh-retail-jobs-2027) |
 | **Verizon** | Technical Expert - Customer Service | Alpharetta Georgia | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1102871?s=gh-retail-jobs-2027) |
 | **Sherwin-Williams** | Customer Service Specialist | Southern Pines, NC, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-sherwin-williams-2620505?s=gh-retail-jobs-2027) |
@@ -140,9 +140,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Lowe's** | Full Time - Receiver/Stocker - Day | Hillsboro, OR 1558 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02684600?s=gh-retail-jobs-2027) |
 | **Lowe's** | Part Time - Fulfillment Associate - Flexible | Wilmington, OH 0298 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02684599?s=gh-retail-jobs-2027) |
 | **Lowe's** | Part Time - Receiver/Stocker - Flexible | Kent, OH (Brimfield Township) 2500 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02684598?s=gh-retail-jobs-2027) |
-| **Lowe's** | Full Time - Receiver/Stocker - Overnight | Yorktown, NY 3360 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02684587?s=gh-retail-jobs-2027) |
 | **Target** | Full Time Hourly Warehouse Associate Evergreen Requisition Seasonal Openings (T3861) | Dallas, TX | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447618?s=gh-retail-jobs-2027) |
 | **Target** | Full Time Hourly Warehouse Operations (T3808) | Midway, GA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447565?s=gh-retail-jobs-2027) |
 | **Target** | Full Time Hourly Warehouse Operations (T3811) | Newton, NC | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447662?s=gh-retail-jobs-2027) |
@@ -235,36 +235,36 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Fresenius Medical Care** | Outpatient Registered Nurse - RN | Evanston, IL | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0268789?s=gh-retail-jobs-2027) |
-| **Fresenius Medical Care** | Registered Nurse - RN - Dialysis | Honolulu, HI, USA | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0268215?s=gh-retail-jobs-2027) |
-| **Fresenius Medical Care** | Biomedical Technician | Kingsville, TX | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0263015?s=gh-retail-jobs-2027) |
+| **CVS Health** | In Home Health Physician (Full Time) - Manhattan, NY | NY - Manhattan | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1083862?s=gh-retail-jobs-2027) |
+| **CVS Health** | In-Home Health - Physician (Per Diem) - Providence, RI | RI - Providence | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1084424?s=gh-retail-jobs-2027) |
+| **CVS Health** | In-Home Health - Physician (Part Time) - Portland, Maine | ME - Portland | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1084504?s=gh-retail-jobs-2027) |
 | **Lowe's** | Part Time - Loader/Cart Associate - Opening | Banner Elk, NC 1834 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02684591?s=gh-retail-jobs-2027) |
-| **CVS Health** | In Home Health Physician (Full Time) - Manhattan, NY | NY - Manhattan | 35m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1083862?s=gh-retail-jobs-2027) |
-| **CVS Health** | In-Home Health - Physician (Per Diem) - Providence, RI | RI - Providence | 35m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1084424?s=gh-retail-jobs-2027) |
-| **CVS Health** | In-Home Health - Physician (Part Time) - Portland, Maine | ME - Portland | 35m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1084504?s=gh-retail-jobs-2027) |
-| **Lowe's** | Full Time - Scheduling Staffing Admin - Day | Bedford Heights, OH 1023 | 58m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02684452?s=gh-retail-jobs-2027) |
+| **Fresenius Medical Care** | Outpatient Registered Nurse - RN | Evanston, IL | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0268789?s=gh-retail-jobs-2027) |
+| **Fresenius Medical Care** | Registered Nurse - RN - Dialysis | Honolulu, HI, USA | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0268215?s=gh-retail-jobs-2027) |
+| **Fresenius Medical Care** | Biomedical Technician | Kingsville, TX | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0263015?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Scheduling Staffing Admin - Day | Bedford Heights, OH 1023 | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02684452?s=gh-retail-jobs-2027) |
 | **Sysco** | CDL A Local Delivery Truck Driver (Food/Bev) | Sysco Central Texas-Katy | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R273097?s=gh-retail-jobs-2027) |
 | **Sysco** | CDL A Local Delivery Truck Driver | Sysco Kansas City  -  Columbia | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R273086?s=gh-retail-jobs-2027) |
 | **Lowe's** | Full Time - CDL Delivery Driver | Oak Park Heights, MN 2315 | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02684395?s=gh-retail-jobs-2027) |
-| **Cox** | Product Management Intern - Summer 2027 (Austin, TX) | Austin TX | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682189?s=gh-retail-jobs-2027) |
-| **Cox** | Manheim Mobile Vehicle Condition Inspector, West Palm Beach, FL | West Palm Beach FL | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202684044?s=gh-retail-jobs-2027) |
-| **Cox** | Manheim Mobile Vehicle Condition Inspector, Miami Metro West, FL | Remote - Florida | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202684047?s=gh-retail-jobs-2027) |
+| **Cox** | Product Management Intern - Summer 2027 (Austin, TX) | Austin TX | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682189?s=gh-retail-jobs-2027) |
+| **Cox** | Manheim Mobile Vehicle Condition Inspector, West Palm Beach, FL | West Palm Beach FL | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202684044?s=gh-retail-jobs-2027) |
+| **Cox** | Manheim Mobile Vehicle Condition Inspector, Miami Metro West, FL | Remote - Florida | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202684047?s=gh-retail-jobs-2027) |
 | **Kroger** | MEAT/JOURNEYMAN | Sun Prairie, WI, United States | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-187610?s=gh-retail-jobs-2027) |
 | **Kroger** | Bakery/Deli Clerk | Cincinnati, OH, United States | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-220543?s=gh-retail-jobs-2027) |
 | **Kroger** | BAKERY/BAKER | Sun Prairie, WI, United States | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-225535?s=gh-retail-jobs-2027) |
-| **AutoZone** | Commercial Driver – Full Time | Opelika, AL, United States | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-169240?s=gh-retail-jobs-2027) |
-| **AutoZone** | Commercial Driver – Full Time | Quakertown, PA, United States | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-169242?s=gh-retail-jobs-2027) |
-| **AutoZone** | Commercial Driver – Full Time | Perkasie, PA, United States | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-169245?s=gh-retail-jobs-2027) |
 | **EXP** | Seasonal ICQA Troubleshooter - Power Equipment Operator, Bailey Road -Part Time | North Jackson, OH, United States | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-exp-REQ_820302?s=gh-retail-jobs-2027) |
 | **EXP** | Seasonal ICQA Troubleshooter - Power Equipment Operator, Bailey Road - Part Time | North Jackson, OH, United States | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-exp-REQ_820272?s=gh-retail-jobs-2027) |
 | **EXP** | Seasonal ICQA Troubleshooter - Power Equipment Operator, Bailey Road - Part Time | North Jackson, OH, United States | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-exp-REQ_820299?s=gh-retail-jobs-2027) |
 | **Albertsons** | Fresh Cut Produce Clerk | Pullman, WA, United States | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-765796?s=gh-retail-jobs-2027) |
 | **Albertsons** | Grocery Fourth Manager | Albuquerque, NM, United States | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-781239?s=gh-retail-jobs-2027) |
 | **Albertsons** | Produce Manager | Dallas, TX, United States | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-784555?s=gh-retail-jobs-2027) |
+| **AutoZone** | Commercial Driver – Full Time | Opelika, AL, United States | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-169240?s=gh-retail-jobs-2027) |
+| **AutoZone** | Commercial Driver – Full Time | Quakertown, PA, United States | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-169242?s=gh-retail-jobs-2027) |
+| **AutoZone** | Commercial Driver – Full Time | Perkasie, PA, United States | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-169245?s=gh-retail-jobs-2027) |
 | **Hilton** | Massage Therapist (On Call) - Casa Mani Resort Napa Valley, Curio Collection by Hilton | Napa, CA, United States | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-224912?s=gh-retail-jobs-2027) |
 | **Hilton** | Spa Sales and Membership Manager - Hilton Sedona Resort at Bell Rock | Sedona, AZ, United States | 18h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-228756?s=gh-retail-jobs-2027) |
-| **AbbVie** | Field Reimbursement Manager - Parkinson’s | Minneapolis, MN | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016390516?s=gh-retail-jobs-2027) |
-| **AbbVie** | Field Reimbursement Manager - Parkinson’s | Omaha, NE | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016390486?s=gh-retail-jobs-2027) |
+| **AbbVie** | Field Reimbursement Manager - Parkinson’s | Minneapolis, MN | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016390516?s=gh-retail-jobs-2027) |
+| **AbbVie** | Field Reimbursement Manager - Parkinson’s | Omaha, NE | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016390486?s=gh-retail-jobs-2027) |
 | **AbbVie** | Field Reimbursement Manager, Immunology Dermatology | Jacksonville, FL | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016389468?s=gh-retail-jobs-2027) |
 | **Comcast** | Xfinity Mobile Retail Service Associate-Part Time | DE - Newark, 133 Christiana Mall | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-comcast-comcast-careers-R446926?s=gh-retail-jobs-2027) |
 | **Comcast** | Product Manager (Reporting) - FreeWheel | NY - New York, 1407 Broadway... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-comcast-comcast-careers-R446567?s=gh-retail-jobs-2027) |
@@ -398,7 +398,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 30070 current opportunities from 28 companies**
+**🎯 30031 current opportunities from 28 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
