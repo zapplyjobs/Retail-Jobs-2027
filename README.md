@@ -94,9 +94,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Full Time - Sales Associate - Building Materials - Day | Belleville, IL 2302 | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02684412?s=gh-retail-jobs-2027) |
-| **Lowe's** | Full Time - Sales Associate - Paint - Day | Belleville, IL 2302 | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02684410?s=gh-retail-jobs-2027) |
-| **Lowe's** | Full Time - Merchandising Service Associate - Day | Nashua, NH (S. Nashua) 2391 | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02684401?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Sales Associate - Building Materials - Day | Belleville, IL 2302 | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02684412?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Sales Associate - Paint - Day | Belleville, IL 2302 | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02684410?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Merchandising Service Associate - Day | Nashua, NH (S. Nashua) 2391 | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02684401?s=gh-retail-jobs-2027) |
 | **CVS Health** | Store Associate | CT - West Hartford | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1083882?s=gh-retail-jobs-2027) |
 | **CVS Health** | Store Associate | 03549 - Connecticut CVS... | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1083594?s=gh-retail-jobs-2027) |
 | **CVS Health** | Store Associate | KY - Somerset | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1083626?s=gh-retail-jobs-2027) |
@@ -140,9 +140,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Full Time - Receiver/Stocker - Day | Oklahoma City, OK (Central... | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02684391?s=gh-retail-jobs-2027) |
-| **Lowe's** | Full Time - Receiver/Stocker - Overnight | Florence, KY 0554 | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02684388?s=gh-retail-jobs-2027) |
-| **Lowe's** | Part Time - Receiver/Stocker - Flexible | Frisco, TX 1059 | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02684387?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Receiver/Stocker - Day | Oklahoma City, OK (Central... | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02684391?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Receiver/Stocker - Overnight | Florence, KY 0554 | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02684388?s=gh-retail-jobs-2027) |
+| **Lowe's** | Part Time - Receiver/Stocker - Flexible | Frisco, TX 1059 | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02684387?s=gh-retail-jobs-2027) |
 | **CVS Health** | Technician, Pharmacy Warehouse L1 - Packing (C-Shift) | PA - Wilkes Barre | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1070774?s=gh-retail-jobs-2027) |
 | **Target** | Full Time Hourly Warehouse Operations Seasonal Openings Only (T3806) | Rialto, CA | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447601?s=gh-retail-jobs-2027) |
 | **Target** | Seasonal Full Time Hourly Warehouse Operations  Openings (T3865) | Chicago, IL | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447584?s=gh-retail-jobs-2027) |
@@ -235,13 +235,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Full Time - CDL Delivery Driver | Oak Park Heights, MN 2315 | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02684395?s=gh-retail-jobs-2027) |
-| **Cox** | Manheim Mobile Vehicle Condition Inspector, West Palm Beach, FL | West Palm Beach FL | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202684044?s=gh-retail-jobs-2027) |
-| **Cox** | Manheim Mobile Vehicle Condition Inspector, Miami Metro West, FL | Remote - Florida | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202684047?s=gh-retail-jobs-2027) |
-| **Cox** | Manheim Mobile Vehicle Condition Inspector, Wytheville, VA | Remote - Virginia | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202684034?s=gh-retail-jobs-2027) |
-| **Sysco** | CDL A Local Delivery Truck Driver (Food/Bev) | Sysco Central Texas-Katy | 55m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R273097?s=gh-retail-jobs-2027) |
-| **Sysco** | CDL A Local Delivery Truck Driver | Sysco Kansas City  -  Columbia | 55m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R273086?s=gh-retail-jobs-2027) |
-| **Fresenius Medical Care** | Biomedical Technician | Kingsville, TX | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0263015?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - CDL Delivery Driver | Oak Park Heights, MN 2315 | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02684395?s=gh-retail-jobs-2027) |
+| **Cox** | Manheim Mobile Vehicle Condition Inspector, West Palm Beach, FL | West Palm Beach FL | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202684044?s=gh-retail-jobs-2027) |
+| **Cox** | Manheim Mobile Vehicle Condition Inspector, Miami Metro West, FL | Remote - Florida | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202684047?s=gh-retail-jobs-2027) |
+| **Cox** | Manheim Mobile Vehicle Condition Inspector, Wytheville, VA | Remote - Virginia | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202684034?s=gh-retail-jobs-2027) |
+| **Sysco** | CDL A Local Delivery Truck Driver (Food/Bev) | Sysco Central Texas-Katy | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R273097?s=gh-retail-jobs-2027) |
+| **Sysco** | CDL A Local Delivery Truck Driver | Sysco Kansas City  -  Columbia | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R273086?s=gh-retail-jobs-2027) |
+| **Fresenius Medical Care** | Biomedical Technician | Kingsville, TX | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0263015?s=gh-retail-jobs-2027) |
 | **Abbott** | Collections Specialist II | United States - Florida - Lake Mary | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31162509?s=gh-retail-jobs-2027) |
 | **Abbott** | Collections Specialist II | United States - Florida - Lake Mary | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31162506?s=gh-retail-jobs-2027) |
 | **Abbott** | Clinical Lab Associate III, Pre-Analytical | United States > Madison : 650... | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31165401?s=gh-retail-jobs-2027) |
@@ -277,7 +277,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Thermo Fisher Scientific** | Assembler II | Colorado Springs, Colorado, USA | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01372765?s=gh-retail-jobs-2027) |
 | **Starbucks** | mgr district- South San Diego | 9920 Pacific Heights Blvd 105,... | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/starbucks-260086040?s=gh-retail-jobs-2027) |
 | **Sysco** | CDL A Local Delivery Truck Driver | Buckhead Central Florida | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R268248?s=gh-retail-jobs-2027) |
-| **Cardinal Health** | Delivery Driver - Pharmacy Services (Short Term Assignment) | Fresno, CA | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20189589?s=gh-retail-jobs-2027) |
+| **Cardinal Health** | Delivery Driver - Pharmacy Services (Short Term Assignment) | Fresno, CA | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20189589?s=gh-retail-jobs-2027) |
 | **JLL** | Mechanical SME - Critical Environments | Colorado City, TX | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ529207?s=gh-retail-jobs-2027) |
 | **JLL** | Mech and Robotics Tech | Woodbury, MN | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ544549?s=gh-retail-jobs-2027) |
 | **JLL** | HVAC Technician | Jacksonville, FL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ543153?s=gh-retail-jobs-2027) |
