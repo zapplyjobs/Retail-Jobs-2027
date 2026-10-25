@@ -94,7 +94,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | OVERNIGHT store associate | KS - Overland Park | 59m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1085597?s=gh-retail-jobs-2027) |
+| **CVS Health** | OVERNIGHT store associate | KS - Overland Park | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1085597?s=gh-retail-jobs-2027) |
 | **Kroger** | Courtesy Clerk/Grocery Bagger | Albuquerque, NM, United States | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-224445?s=gh-retail-jobs-2027) |
 | **Kroger** | Courtesy Clerk/Grocery Bagger | Franklin, WI, United States | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-244678?s=gh-retail-jobs-2027) |
 | **Kroger** | Courtesy Clerk/Grocery Bagger | Marietta, GA, United States | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-244681?s=gh-retail-jobs-2027) |
@@ -222,7 +222,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Intern - Grad | SC - Lyman | 59m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1025001?s=gh-retail-jobs-2027) |
+| **CVS Health** | Pharmacy Intern - Grad | SC - Lyman | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1025001?s=gh-retail-jobs-2027) |
 | **Sysco** | Greco - GRECO - CDL B Local Delivery Truck Driver | Greco Missouri | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R268924?s=gh-retail-jobs-2027) |
 | **LabCorp** | Lab Assistant | Tampa FL | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2637015?s=gh-retail-jobs-2027) |
 | **LabCorp** | Clinical Laboratory Technologist - Hematology | Tampa FL | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2637012?s=gh-retail-jobs-2027) |
