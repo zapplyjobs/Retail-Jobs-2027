@@ -143,10 +143,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Part Time - Fulfillment Associate - Flexible | Kahului, HI 3279 | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02701445?s=gh-retail-jobs-2027) |
-| **Target** | Full Time Hourly Warehouse Worker Openings - $1,000 SIGN ON BONUS (T0590) | Cedar Falls, IA | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453972?s=gh-retail-jobs-2027) |
-| **Target** | Seasonal Full Time Hourly Warehouse Operations Openings - - $1,000 SIGN ON BONUS (T0557) | Oconomowoc, WI | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453974?s=gh-retail-jobs-2027) |
-| **Target** | Seasonal Full Time Hourly Warehouse Worker Openings Only (T0600) | Lacey, WA | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447569?s=gh-retail-jobs-2027) |
+| **Lowe's** | Part Time - Fulfillment Associate - Flexible | Kahului, HI 3279 | 42m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02701445?s=gh-retail-jobs-2027) |
+| **Target** | Full Time Hourly Warehouse Worker Openings - $1,000 SIGN ON BONUS (T0590) | Cedar Falls, IA | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453972?s=gh-retail-jobs-2027) |
+| **Target** | Seasonal Full Time Hourly Warehouse Operations Openings - - $1,000 SIGN ON BONUS (T0557) | Oconomowoc, WI | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453974?s=gh-retail-jobs-2027) |
+| **Target** | Seasonal Full Time Hourly Warehouse Worker Openings Only (T0600) | Lacey, WA | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447569?s=gh-retail-jobs-2027) |
 | **Albertsons** | Warehouse Order Selector | Methuen, MA, United States | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-790556?s=gh-retail-jobs-2027) |
 | **EXP** | Seasonal Fulfillment and Receiving Support Associate, Lakeside Shopping Center | Metairie, LA, United States | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-exp-REQ_823720?s=gh-retail-jobs-2027) |
 | **EXP** | Warehouse Associate, Los Angeles - Part Time | City of Industry, CA, United States | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-exp-REQ_823752?s=gh-retail-jobs-2027) |
@@ -243,7 +243,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Comcast** | Residential Installation & Service Technician | TX - Houston, 10801 Highway 3 | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-comcast-comcast-careers-R448683?s=gh-retail-jobs-2027) |
+| **Comcast** | Residential Installation & Service Technician | TX - Houston, 10801 Highway 3 | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-comcast-comcast-careers-R448683?s=gh-retail-jobs-2027) |
 | **Target** | Seasonal Target Security Specialist | Rialto, CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000479940?s=gh-retail-jobs-2027) |
 | **CVS Health** | In-Home Traveler Physician (Full Time) - Nevada | NV - Work from home | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1060501?s=gh-retail-jobs-2027) |
 | **CVS Health** | Pharmacy Technician | MN - White Bear Lake | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1098111?s=gh-retail-jobs-2027) |
@@ -301,7 +301,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Sysco** | CDL Instructor-SYGMA | SYGMA Kentucky | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R273661?s=gh-retail-jobs-2027) |
 | **Merck & Co.** | Associate Specialist, Quality Assurance | USA - Nebraska - Elkhorn | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R426037?s=gh-retail-jobs-2027) |
 | **Starbucks** | decision scientist - Market Planning and Business Systems | 2401 Utah Ave S #800, Seattle,... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/starbucks-260086831?s=gh-retail-jobs-2027) |
-| **Starbucks** | mgr district- Central Maryland | Columbia, Maryland, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/starbucks-260087659?s=gh-retail-jobs-2027) |
+| **Starbucks** | mgr district- Central Maryland | Columbia, Maryland, United States | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/starbucks-260087659?s=gh-retail-jobs-2027) |
 | **Highmark Health** | Category Manager - Health Plan | Pittsburgh PA, 15222, FAP, 5th... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J280717?s=gh-retail-jobs-2027) |
 | **Highmark Health** | Medical Technologist - Full Time - Day Shift - SVH | Erie PA, 16502 | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J286333?s=gh-retail-jobs-2027) |
 | **Highmark Health** | Phlebotomist - Casual Hours - Day Shift - West Penn Hospital | Pittsburgh PA, 15224, West Penn... | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291353?s=gh-retail-jobs-2027) |
