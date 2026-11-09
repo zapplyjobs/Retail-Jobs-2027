@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Target** | Starbucks Barista | Los Angeles, CA | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000480217?s=gh-retail-jobs-2027) |
-| **Target** | Starbucks Barista | South Gate, CA | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000480240?s=gh-retail-jobs-2027) |
-| **Target** | Starbucks Barista | Norman, OK | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000480151?s=gh-retail-jobs-2027) |
+| **Target** | Starbucks Barista | Los Angeles, CA | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000480217?s=gh-retail-jobs-2027) |
+| **Target** | Starbucks Barista | South Gate, CA | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000480240?s=gh-retail-jobs-2027) |
+| **Target** | Starbucks Barista | Norman, OK | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000480151?s=gh-retail-jobs-2027) |
 | **Albertsons** | Starbucks Barista | Sunnyvale, CA, United States | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-790945?s=gh-retail-jobs-2027) |
 | **Kroger** | STARBUCKS/BARISTA | Scottsdale, AZ, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-250367?s=gh-retail-jobs-2027) |
 | **Kroger** | Starbucks Barista | Bluffton, SC, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-250370?s=gh-retail-jobs-2027) |
@@ -140,11 +140,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Target** | Warehouse Worker - Food Distribution Center (T3712) | Sacramento, CA | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447561?s=gh-retail-jobs-2027) |
-| **Target** | Full Time Hourly Warehouse Operations Openings -  $1,000 SIGN ON BONUS (T3802) | Amsterdam, NY | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453979?s=gh-retail-jobs-2027) |
-| **Cardinal Health** | Warehouse Associate | Dixon, CA | 57m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20190753?s=gh-retail-jobs-2027) |
-| **Cardinal Health** | Inventory Cycle Counter, Warehouse Operations | LaVergne, TN | 57m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20190533?s=gh-retail-jobs-2027) |
-| **Cardinal Health** | Warehouse Associate II, Operations | Tampa, FL | 57m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20190751?s=gh-retail-jobs-2027) |
+| **Target** | Warehouse Worker - Food Distribution Center (T3712) | Sacramento, CA | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447561?s=gh-retail-jobs-2027) |
+| **Target** | Full Time Hourly Warehouse Operations Openings -  $1,000 SIGN ON BONUS (T3802) | Amsterdam, NY | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453979?s=gh-retail-jobs-2027) |
+| **Cardinal Health** | Warehouse Associate | Dixon, CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20190753?s=gh-retail-jobs-2027) |
+| **Cardinal Health** | Inventory Cycle Counter, Warehouse Operations | LaVergne, TN | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20190533?s=gh-retail-jobs-2027) |
+| **Cardinal Health** | Warehouse Associate II, Operations | Tampa, FL | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20190751?s=gh-retail-jobs-2027) |
 | **Target** | Full Time Hourly Warehouse Associate Evergreen Requisition Seasonal Openings (T3861) | Dallas, TX | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447618?s=gh-retail-jobs-2027) |
 | **Albertsons** | Night Crew Stocker | Corvallis, OR, United States | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-790941?s=gh-retail-jobs-2027) |
 | **Sysco** | Inventory Control Warehouse Associate - 2nd Shift | Buckhead Chicago | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R264526?s=gh-retail-jobs-2027) |
@@ -238,19 +238,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Target** | Target Security Specialist | Leominster, MA | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000480127?s=gh-retail-jobs-2027) |
-| **Target** | Target Security Specialist | Everett, WA | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000480187?s=gh-retail-jobs-2027) |
-| **Target** | Target Security Specialist | Falls Church, VA | 25m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000480158?s=gh-retail-jobs-2027) |
-| **Highmark Health** | Patient Care Technician I, Float, Casual, AVH | Natrona Heights PA, 15065, 1301... | 36m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290510?s=gh-retail-jobs-2027) |
-| **Highmark Health** | Patient Care Technician I, Float, Casual, AVH | Natrona Heights PA, 15065, 1301... | 36m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290513?s=gh-retail-jobs-2027) |
-| **Highmark Health** | RN Registered Nurse, Weekend, Med Surg, AVH | Natrona Heights PA, 15065, 1301... | 36m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290514?s=gh-retail-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | FL - Port Saint Lucie | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1099067?s=gh-retail-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | FL - Lakeland | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1099068?s=gh-retail-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | MO - Columbia | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1099069?s=gh-retail-jobs-2027) |
-| **Cardinal Health** | Pharmacy Delivery Driver | Baton Rouge, LA | 57m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20190120?s=gh-retail-jobs-2027) |
+| **Target** | Target Security Specialist | Leominster, MA | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000480127?s=gh-retail-jobs-2027) |
+| **Target** | Target Security Specialist | Everett, WA | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000480187?s=gh-retail-jobs-2027) |
+| **Target** | Target Security Specialist | Falls Church, VA | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000480158?s=gh-retail-jobs-2027) |
+| **Highmark Health** | Patient Care Technician I, Float, Casual, AVH | Natrona Heights PA, 15065, 1301... | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290510?s=gh-retail-jobs-2027) |
+| **Highmark Health** | Patient Care Technician I, Float, Casual, AVH | Natrona Heights PA, 15065, 1301... | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290513?s=gh-retail-jobs-2027) |
+| **Highmark Health** | RN Registered Nurse, Weekend, Med Surg, AVH | Natrona Heights PA, 15065, 1301... | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290514?s=gh-retail-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | FL - Port Saint Lucie | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1099067?s=gh-retail-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | FL - Lakeland | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1099068?s=gh-retail-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | MO - Columbia | 44m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1099069?s=gh-retail-jobs-2027) |
+| **Cardinal Health** | Pharmacy Delivery Driver | Baton Rouge, LA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20190120?s=gh-retail-jobs-2027) |
 | **Cox** | Auto Maintenance Technician II $4,000 Sign On Bonus (Manheim) | Euless TX | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202684858?s=gh-retail-jobs-2027) |
 | **Cox** | Full Time Driver I | Maple Grove MN | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682410?s=gh-retail-jobs-2027) |
-| **Fresenius Medical Care** | Patient Care Technician - PCT - Dialysis | Omak, WA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0270307?s=gh-retail-jobs-2027) |
+| **Fresenius Medical Care** | Patient Care Technician - PCT - Dialysis | Omak, WA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0270307?s=gh-retail-jobs-2027) |
 | **Hilton** | Jr Sous Chef- Canopy by Hilton Sioux Falls Downtown | Sioux Falls, SD, United States | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-225963?s=gh-retail-jobs-2027) |
 | **Hilton** | Chef de Cuisine - Signia by Hilton La Cantera Resort and Spa | San Antonio, TX, United States | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-230691?s=gh-retail-jobs-2027) |
 | **Kroger** | Bakery/Deli Clerk | London, OH, United States | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-232009?s=gh-retail-jobs-2027) |
