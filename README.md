@@ -94,7 +94,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Full Time - Merchandising Service Associate - Day | Goose Creek, SC 2464 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02701545?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Merchandising Service Associate - Day | Goose Creek, SC 2464 | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02701545?s=gh-retail-jobs-2027) |
 | **CVS Health** | Store Associate | MA - Needham | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1098225?s=gh-retail-jobs-2027) |
 | **CVS Health** | Store Associate | MA - Melrose | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1098163?s=gh-retail-jobs-2027) |
 | **CVS Health** | Store Associate | MA - Stoneham | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1097778?s=gh-retail-jobs-2027) |
@@ -140,9 +140,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Part Time - Fulfillment Associate - Flexible | Greenwood, SC 0518 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02701552?s=gh-retail-jobs-2027) |
-| **Lowe's** | Part Time - Fulfillment Associate - Flexible | Hornell, NY 2444 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02701551?s=gh-retail-jobs-2027) |
-| **Lowe's** | Full Time - Receiver/Stocker - Day | Cranberry Township, PA 0653 | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02701550?s=gh-retail-jobs-2027) |
+| **Lowe's** | Part Time - Fulfillment Associate - Flexible | Greenwood, SC 0518 | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02701552?s=gh-retail-jobs-2027) |
+| **Lowe's** | Part Time - Fulfillment Associate - Flexible | Hornell, NY 2444 | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02701551?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Receiver/Stocker - Day | Cranberry Township, PA 0653 | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02701550?s=gh-retail-jobs-2027) |
 | **Target** | Warehouse Worker - Food Distribution Center (T3712) | Sacramento, CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000447561?s=gh-retail-jobs-2027) |
 | **Cardinal Health** | Warehouse Associate | Dixon, CA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20190753?s=gh-retail-jobs-2027) |
 | **Cardinal Health** | Inventory Cycle Counter, Warehouse Operations | LaVergne, TN | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20190533?s=gh-retail-jobs-2027) |
@@ -238,12 +238,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Pharmacy Intern | PA - McKees Rocks | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1099066?s=gh-retail-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | FL - Port Saint Lucie | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1099067?s=gh-retail-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | FL - Lakeland | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1099068?s=gh-retail-jobs-2027) |
-| **Highmark Health** | Patient Care Technician I, Float, Casual, AVH | Natrona Heights PA, 15065, 1301... | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290510?s=gh-retail-jobs-2027) |
-| **Highmark Health** | Patient Care Technician I, Float, Casual, AVH | Natrona Heights PA, 15065, 1301... | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290513?s=gh-retail-jobs-2027) |
-| **Highmark Health** | RN Registered Nurse, Weekend, Med Surg, AVH | Natrona Heights PA, 15065, 1301... | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290514?s=gh-retail-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | PA - McKees Rocks | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1099066?s=gh-retail-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | FL - Port Saint Lucie | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1099067?s=gh-retail-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | FL - Lakeland | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1099068?s=gh-retail-jobs-2027) |
+| **Highmark Health** | Patient Care Technician I, Float, Casual, AVH | Natrona Heights PA, 15065, 1301... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290510?s=gh-retail-jobs-2027) |
+| **Highmark Health** | Patient Care Technician I, Float, Casual, AVH | Natrona Heights PA, 15065, 1301... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290513?s=gh-retail-jobs-2027) |
+| **Highmark Health** | RN Registered Nurse, Weekend, Med Surg, AVH | Natrona Heights PA, 15065, 1301... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J290514?s=gh-retail-jobs-2027) |
 | **Target** | Target Security Specialist | Merrillville, IN | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000479632?s=gh-retail-jobs-2027) |
 | **Target** | Target Security Specialist | Albany, CA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000480212?s=gh-retail-jobs-2027) |
 | **Target** | Target Security Specialist | New York, NY | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000480232?s=gh-retail-jobs-2027) |
