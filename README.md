@@ -16,8 +16,8 @@
 <p align="center">🛍️ Retail jobs across the US, from store and warehouse roles to delivery. Updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Retail%20Jobs-37346-3FB950?style=flat&logo=briefcase" height="30" alt="Retail Jobs">
-  <img src="https://img.shields.io/badge/Sales%20Floor%20%26%20Customer%20Service-7869-2F81F7?style=flat&logo=briefcase" height="30" alt="Sales Floor & Customer Service">
+  <img src="https://img.shields.io/badge/Retail%20Jobs-37344-3FB950?style=flat&logo=briefcase" height="30" alt="Retail Jobs">
+  <img src="https://img.shields.io/badge/Sales%20Floor%20%26%20Customer%20Service-7870-2F81F7?style=flat&logo=briefcase" height="30" alt="Sales Floor & Customer Service">
   <img src="https://img.shields.io/badge/Companies-27-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
 </p>
@@ -241,11 +241,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Cardinal Health** | Pharmacy Delivery Driver (Part Time) | Greensboro, NC | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20190925?s=gh-retail-jobs-2027) |
-| **Lowe's** | Full Time - Scheduling Staffing Admin - Day | Roseville, CA (N Roseville) 1207 | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02704545?s=gh-retail-jobs-2027) |
-| **Highmark Health** | RN 11A Telemetry, Allegheny General | Pittsburgh PA, 15212 | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291365?s=gh-retail-jobs-2027) |
-| **Highmark Health** | RN CICU, Allegheny General | Pittsburgh PA, 15212 | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291419?s=gh-retail-jobs-2027) |
-| **Highmark Health** | RN E9 Inpatient Post-Surgery (New Grad), West Penn Hospital | Pittsburgh PA, 15224, West Penn... | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291026?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Scheduling Staffing Admin - Day | Roseville, CA (N Roseville) 1207 | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02704545?s=gh-retail-jobs-2027) |
+| **Cardinal Health** | Pharmacy Delivery Driver (Part Time) | Greensboro, NC | 20m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20190925?s=gh-retail-jobs-2027) |
+| **Highmark Health** | RN 11A Telemetry, Allegheny General | Pittsburgh PA, 15212 | 40m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291365?s=gh-retail-jobs-2027) |
+| **Highmark Health** | RN CICU, Allegheny General | Pittsburgh PA, 15212 | 40m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291419?s=gh-retail-jobs-2027) |
+| **Highmark Health** | RN E9 Inpatient Post-Surgery (New Grad), West Penn Hospital | Pittsburgh PA, 15224, West Penn... | 40m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291026?s=gh-retail-jobs-2027) |
 | **Trane Technologies** | Quality Technician I | Clarksville, Tennessee | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-19227?s=gh-retail-jobs-2027) |
 | **Trane Technologies** | Corp Strat & Analytics SrMgr | Davidson, North Carolina | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-19193?s=gh-retail-jobs-2027) |
 | **Trane Technologies** | Ingeniero de Servicio HVAC | Tijuana, Baja California | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tranetechnologies-trane-technologies-car-JR-19721?s=gh-retail-jobs-2027) |
@@ -298,7 +298,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Tenet Healthcare** | Certified Nursing Assistant (CNA) - Med Surg | Harlingen, TX, United States | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-tenet-healthcare-2603028835?s=gh-retail-jobs-2027) |
 | **AbbVie** | Scientist II - Bioprocess Cell Culture Development | South San Francisco, CA | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016830666?s=gh-retail-jobs-2027) |
 | **AbbVie** | District Manager, Chronic Migraine/Spasticity & Movement Disorders (SMD) - Great Plains | Kansas City, KS | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016829056?s=gh-retail-jobs-2027) |
-| **Cox** | Billing Specialist I | Cherryville, NC | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202683778?s=gh-retail-jobs-2027) |
+| **Cox** | Billing Specialist I | Cherryville, NC | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202683778?s=gh-retail-jobs-2027) |
 | **AbbVie** | Coordinator, Production Training (Day Shift) | Tempe, AZ | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016825846?s=gh-retail-jobs-2027) |
 | **Cox** | Entry Level Mobile Diesel Mechanic | Nashville TN | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202685085?s=gh-retail-jobs-2027) |
 | **Cardinal Health** | Lab Analyst | Deland, FL | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20191089?s=gh-retail-jobs-2027) |
@@ -408,7 +408,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 37346 current opportunities from 27 companies**
+**🎯 37344 current opportunities from 27 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
