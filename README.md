@@ -16,7 +16,7 @@
 <p align="center">🛍️ Retail jobs across the US, from store and warehouse roles to delivery. Updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Retail%20Jobs-37914-3FB950?style=flat&logo=briefcase" height="30" alt="Retail Jobs">
+  <img src="https://img.shields.io/badge/Retail%20Jobs-37966-3FB950?style=flat&logo=briefcase" height="30" alt="Retail Jobs">
   <img src="https://img.shields.io/badge/Sales%20Floor%20%26%20Customer%20Service-7997-2F81F7?style=flat&logo=briefcase" height="30" alt="Sales Floor & Customer Service">
   <img src="https://img.shields.io/badge/Companies-27-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
@@ -248,7 +248,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **CVS Health** | Pharmacy Intern | VA - Orange | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1104724?s=gh-retail-jobs-2027) |
 | **CVS Health** | Pharmacy Intern | VA - Charlottesville | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1104722?s=gh-retail-jobs-2027) |
 | **CVS Health** | Pharmacy Intern | VA - Charlottesville | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1104721?s=gh-retail-jobs-2027) |
-| **Sysco** | Overnight Transportation Supervisor - Jackson, WI | Sysco Eastern Wisconsin | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R275426?s=gh-retail-jobs-2027) |
 | **AutoZone** | Hub Driver | Salt Lake City, UT, United States | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-177754?s=gh-retail-jobs-2027) |
 | **Albertsons** | Baker | Murrieta, CA, United States | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-793886?s=gh-retail-jobs-2027) |
 | **Albertsons** | Retail Sales and Store Support | Albuquerque, NM, United States | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-793889?s=gh-retail-jobs-2027) |
@@ -259,6 +258,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AbbVie** | Manufacturing Technician I, MD Fill - B2 Shift | Waco, TX | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016864056?s=gh-retail-jobs-2027) |
 | **Thermo Fisher Scientific** | Chemical Management Specialist II | Indianapolis, Indiana, USA | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01374595?s=gh-retail-jobs-2027) |
 | **AbbVie** | IAM Enablement Analyst | North Chicago, IL | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016863026?s=gh-retail-jobs-2027) |
+| **Sysco** | Overnight Transportation Supervisor - Jackson, WI | Sysco Eastern Wisconsin | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R275426?s=gh-retail-jobs-2027) |
 | **Merck & Co.** | Tech, Maintenance | USA - North Carolina - Durham | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R424963?s=gh-retail-jobs-2027) |
 | **Merck & Co.** | Specialist - Environmental Health and Safety | USA - New Jersey - Rahway | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R417719?s=gh-retail-jobs-2027) |
 | **Target** | Facility Attendant 1 - Regional Distribution Center - Tifton, GA | Tifton, GA | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000480830?s=gh-retail-jobs-2027) |
@@ -276,13 +276,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Abbott** | Manager, PAC & Grassroots Initiatives | DC | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31161247?s=gh-retail-jobs-2027) |
 | **Abbott** | Clinical Laboratory Scientist I - 2nd Shift | United States > Madison : 1... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31167351?s=gh-retail-jobs-2027) |
 | **Merck & Co.** | Spclst , Technical Support | USA - Pennsylvania - West Point | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R416886?s=gh-retail-jobs-2027) |
-| **Sysco** | Night Inventory Associate | Ifg Jacksonville Facility | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R275529?s=gh-retail-jobs-2027) |
-| **Sysco** | Special Local Delivery Truck Driver | Sysco North Texas | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R272184?s=gh-retail-jobs-2027) |
+| **AutoZone** | Commercial Driver – Part Time | Woodstock, AL, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-177576?s=gh-retail-jobs-2027) |
+| **AutoZone** | Commercial Driver – Part Time | Thornton, CO, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-177581?s=gh-retail-jobs-2027) |
 | **Hilton** | Assistant Food and Beverage Manager - Hilton Houston Post Oak by the Galleria | Houston, TX, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-227051?s=gh-retail-jobs-2027) |
 | **Hilton** | Purchasing and Receiving Supervisor - Hotel del Coronado, A Curio Collection by Hilton | Coronado, CA, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-231152?s=gh-retail-jobs-2027) |
 | **Hilton** | Cook - Hilton Irvine Orange County Airport | Irvine, CA, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-231154?s=gh-retail-jobs-2027) |
-| **AutoZone** | Commercial Driver – Part Time | Woodstock, AL, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-177576?s=gh-retail-jobs-2027) |
-| **AutoZone** | Commercial Driver – Part Time | Thornton, CO, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-autozone-177581?s=gh-retail-jobs-2027) |
 | **Sherwin-Williams** | Delivery Driver - CDL/Hazmat | Jackson, MS, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-sherwin-williams-2626624?s=gh-retail-jobs-2027) |
 | **Sherwin-Williams** | Delivery Driver - DOT | Bend, OR, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-sherwin-williams-2627524?s=gh-retail-jobs-2027) |
 | **EXP** | # Retail Sales Ambassador - Sportswear Ready to Wear, Baybrook - Full Time | Friendswood, TX, United States | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-exp-REQ_816339?s=gh-retail-jobs-2027) |
@@ -298,6 +296,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Target** | Associate Designer, Bullseye Playground | Minneapolis, MN | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000479255?s=gh-retail-jobs-2027) |
 | **AbbVie** | Oncology Nurse Educator- AZ | Phoenix, AZ | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016856706?s=gh-retail-jobs-2027) |
 | **Cox** | Manheim Mobile Vehicle Condition Inspector - San Francisco Territory - $3,000 Signing Bonus | Remote - California | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202683811?s=gh-retail-jobs-2027) |
+| **Sysco** | CDL B Local Delivery Truck Driver | Sysco Metro NY - Domicile | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R270145?s=gh-retail-jobs-2027) |
+| **Sysco** | Maintenance Technician III | Buckhead Denver | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R267641?s=gh-retail-jobs-2027) |
 | **Starbucks** | district manager, New York City, NY | 350 Fifth Avenue, Suite 4400,... | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/starbucks-260086850?s=gh-retail-jobs-2027) |
 | **Cox** | Manager Corporate Communications (Public Relations) | Atlanta GA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202684897?s=gh-retail-jobs-2027) |
 | **Cox** | Part Time Auction Support Specialists (Manheim) - Kent, WA | Kent WA | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202684992?s=gh-retail-jobs-2027) |
@@ -406,7 +406,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 37914 current opportunities from 27 companies**
+**🎯 37966 current opportunities from 27 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
