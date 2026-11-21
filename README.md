@@ -243,7 +243,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Cardinal Health** | Pharmacy Technician ( Nuclear Pharmacy ) | San Diego, CA | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20191572?s=gh-retail-jobs-2027) |
+| **Cardinal Health** | Pharmacy Technician ( Nuclear Pharmacy ) | San Diego, CA | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20191572?s=gh-retail-jobs-2027) |
 | **Fresenius Medical Care** | Dialysis Clinical Manager Registered Nurse - RN | Carlisle, PA | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0277677?s=gh-retail-jobs-2027) |
 | **Target** | Visual Merchandiser - Katy, TX | Katy, TX | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000479189?s=gh-retail-jobs-2027) |
 | **Target** | Product Engineer- Home Fragrance | Minneapolis, MN | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000479608?s=gh-retail-jobs-2027) |
