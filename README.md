@@ -94,9 +94,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Full Time - Sales Associate - Plumbing - Closing | Mount Vernon, OH 1765 | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02710600?s=gh-retail-jobs-2027) |
-| **Lowe's** | Full Time - Sales Associate - Building Materials - Opening | Mount Vernon, OH 1765 | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02710599?s=gh-retail-jobs-2027) |
-| **Lowe's** | Merchandising - Store Environment (Assortment Planning) MBA Graduate Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02653683?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Sales Associate - Plumbing - Closing | Mount Vernon, OH 1765 | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02710600?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Sales Associate - Building Materials - Opening | Mount Vernon, OH 1765 | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02710599?s=gh-retail-jobs-2027) |
+| **Lowe's** | Merchandising - Store Environment (Assortment Planning) MBA Graduate Internship – Summer 2027 | Mooresville, NC (SSC) 1999 | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02653683?s=gh-retail-jobs-2027) |
 | **Kroger** | Cashier | Arvada, CO, United States | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-255711?s=gh-retail-jobs-2027) |
 | **Kroger** | FRONT END/COURTESY CLERK | Happy Valley, OR, United States | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-255712?s=gh-retail-jobs-2027) |
 | **Kroger** | FRONT END/COURTESY CLERK | Portland, OR, United States | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-255723?s=gh-retail-jobs-2027) |
@@ -241,14 +241,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Cardinal Health** | Delivery Driver, Pharmacy Services  (Part-time) | East Rutherford, NJ | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20191512?s=gh-retail-jobs-2027) |
-| **CVS Health** | Community Health Worker | OH - Toledo | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1093511?s=gh-retail-jobs-2027) |
-| **CVS Health** | Medical Assistant | PA - Philadelphia | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1077459?s=gh-retail-jobs-2027) |
-| **CVS Health** | Pharmacy Intern | FL - Boca Raton | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1112377?s=gh-retail-jobs-2027) |
-| **Lowe's** | Full Time - Loader/Cart Associate - Opening | Redmond, OR 2865 | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02710541?s=gh-retail-jobs-2027) |
-| **AbbVie** | Scientist I - Chemistry | North Chicago, IL | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017028526?s=gh-retail-jobs-2027) |
-| **LabCorp** | Technologist Trainee | Shelton CT | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2635530?s=gh-retail-jobs-2027) |
-| **Cox** | Follow Up Specialist I or II (Cox Fleet) | Cherryville, NC | 59m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202685403?s=gh-retail-jobs-2027) |
+| **Cardinal Health** | Delivery Driver, Pharmacy Services  (Part-time) | East Rutherford, NJ | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20191512?s=gh-retail-jobs-2027) |
+| **CVS Health** | Community Health Worker | OH - Toledo | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1093511?s=gh-retail-jobs-2027) |
+| **CVS Health** | Medical Assistant | PA - Philadelphia | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1077459?s=gh-retail-jobs-2027) |
+| **CVS Health** | Pharmacy Intern | FL - Boca Raton | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1112377?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Loader/Cart Associate - Opening | Redmond, OR 2865 | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02710541?s=gh-retail-jobs-2027) |
+| **AbbVie** | Scientist I - Chemistry | North Chicago, IL | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017028526?s=gh-retail-jobs-2027) |
+| **LabCorp** | Technologist Trainee | Shelton CT | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2635530?s=gh-retail-jobs-2027) |
+| **Cox** | Follow Up Specialist I or II (Cox Fleet) | Cherryville, NC | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202685403?s=gh-retail-jobs-2027) |
 | **Highmark Health** | Environmental Service Associate / Teamsters JH (Housekeeping-FT Evening) Jefferson Hospital | Jefferson Hills PA, 15025, 565... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291590?s=gh-retail-jobs-2027) |
 | **Highmark Health** | Environmental Services Associate / SEIU - D (Housekeeping-FT Night) Allegheny General Hospital | Pittsburgh PA, 15212 | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291626?s=gh-retail-jobs-2027) |
 | **Highmark Health** | Patient Host or Hostess / SEIU - D (FT Day) Allegheny General Hospital | Pittsburgh PA, 15212 | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291597?s=gh-retail-jobs-2027) |
@@ -257,8 +257,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Target** | Target Security Specialist | Hurricane, WV | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000481233?s=gh-retail-jobs-2027) |
 | **Target** | Target Security Specialist | Bradenton, FL | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000481730?s=gh-retail-jobs-2027) |
 | **Target** | Target Security Specialist | Lincoln, NE | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000481740?s=gh-retail-jobs-2027) |
-| **JLL** | Mech and Robotics Tech | Shakopee, MN | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ535045?s=gh-retail-jobs-2027) |
-| **JLL** | RME Planner | Carteret, NJ | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ549465?s=gh-retail-jobs-2027) |
+| **JLL** | Mech and Robotics Tech | Shakopee, MN | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ535045?s=gh-retail-jobs-2027) |
+| **JLL** | RME Planner | Carteret, NJ | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ549465?s=gh-retail-jobs-2027) |
 | **Hilton** | Banquet Server (Temporary) - Hilton Waikoloa Village | Waikoloa, HI, United States | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-231902?s=gh-retail-jobs-2027) |
 | **Hilton** | Banquet Houseperson (Temporary) - Hilton Waikoloa Village | Waikoloa, HI, United States | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-231904?s=gh-retail-jobs-2027) |
 | **Hilton** | Host (Part Time), FYR Short North - Hilton Columbus Downtown | Columbus, OH, United States | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-232300?s=gh-retail-jobs-2027) |
