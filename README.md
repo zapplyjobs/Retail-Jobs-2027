@@ -94,7 +94,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Lowe's** | Full Time - Sales Associate - Building Materials - Opening | Riverview, FL 1911 | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02711390?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Sales Associate - Building Materials - Opening | Riverview, FL 1911 | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02711390?s=gh-retail-jobs-2027) |
 | **Lowe's** | Full Time - Cashier - Closing | Lexington, VA 1528 | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02711087?s=gh-retail-jobs-2027) |
 | **Lowe's** | Part Time - Head Cashier - Flexible | Mountain Home, AR 2236 | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02673157?s=gh-retail-jobs-2027) |
 | **CVS Health** | Store Associate | NJ - Westfield | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1111275?s=gh-retail-jobs-2027) |
@@ -161,8 +161,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Kroger** | Grocery Freight Clerk - Graveyard | Battle Ground, WA, United States | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-256201?s=gh-retail-jobs-2027) |
 | **Albertsons** | Night Crew Stocker | San Anselmo, CA, United States | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-796845?s=gh-retail-jobs-2027) |
 | **Albertsons** | Night Crew Stocker | Healdsburg, CA, United States | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-796848?s=gh-retail-jobs-2027) |
-| **Sysco** | Warehouse Order Selector | Sysco South Florida | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R275035?s=gh-retail-jobs-2027) |
-| **Sysco** | Warehouse Order Selector | Sysco Nashville | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R274256?s=gh-retail-jobs-2027) |
+| **Sysco** | Warehouse Order Selector | Sysco South Florida | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R275035?s=gh-retail-jobs-2027) |
+| **Sysco** | Warehouse Order Selector | Sysco Nashville | 14h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R274256?s=gh-retail-jobs-2027) |
 | **Cardinal Health** | Warehouse Inventory Coordinator (Afternoon Shift) | Piedmont, SC | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20191460?s=gh-retail-jobs-2027) |
 | **Cardinal Health** | Warehouse Inventory Coordinator (Weekend Shift) | Piedmont, SC | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20191469?s=gh-retail-jobs-2027) |
 | **Cardinal Health** | Warehouse Associate  (2nd Shift) | Columbus, OH | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20191636?s=gh-retail-jobs-2027) |
@@ -246,9 +246,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Highmark Health** | Patient Care Technician I - Med/Surg - Canonsburg Hospital - Part Time | Canonsburg PA, 15317 | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291587?s=gh-retail-jobs-2027) |
-| **Highmark Health** | Patient Care Technician I - Night - Neuro/Ortho - Jefferson Hospital - Full Time | Jefferson Hills PA, 15025, 565... | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291579?s=gh-retail-jobs-2027) |
-| **Highmark Health** | Patient Care Technician II - Med/Surg - Canonsburg Hospital - Full Time | Canonsburg PA, 15317 | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291584?s=gh-retail-jobs-2027) |
+| **Highmark Health** | Patient Care Technician I - Med/Surg - Canonsburg Hospital - Part Time | Canonsburg PA, 15317 | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291587?s=gh-retail-jobs-2027) |
+| **Highmark Health** | Patient Care Technician I - Night - Neuro/Ortho - Jefferson Hospital - Full Time | Jefferson Hills PA, 15025, 565... | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291579?s=gh-retail-jobs-2027) |
+| **Highmark Health** | Patient Care Technician II - Med/Surg - Canonsburg Hospital - Full Time | Canonsburg PA, 15317 | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291584?s=gh-retail-jobs-2027) |
 | **Fresenius Medical Care** | AGENTE DE SOPORTE TECNICO | Baja California, Tijuana, MEX | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0277660?s=gh-retail-jobs-2027) |
 | **Fresenius Medical Care** | Registered Nurse - RN  - Dialysis | Pittsburgh, PA | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0278357?s=gh-retail-jobs-2027) |
 | **Fresenius Medical Care** | Acute Inpatient Registered Nurse - RN - Dialysis | Schenectady, NY | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0278168?s=gh-retail-jobs-2027) |
@@ -302,7 +302,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Albertsons** | Maintenance Manager | Fullerton, CA, United States | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-796838?s=gh-retail-jobs-2027) |
 | **Albertsons** | General Merchandise Health Beauty Care Manager | Kailua Kona, HI, United States | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-796839?s=gh-retail-jobs-2027) |
 | **AbbVie** | Training Manager, Chronic Migraine | Mettawa, IL | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017049116?s=gh-retail-jobs-2027) |
-| **AbbVie** | Field Coverage Rep | Austin, TX | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017048396?s=gh-retail-jobs-2027) |
+| **AbbVie** | Field Coverage Rep | Austin, TX | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017048396?s=gh-retail-jobs-2027) |
 | **Starbucks** | labor relations manager- Pacific Northwest | 2401 Utah Ave S #800, Seattle,... | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/starbucks-260089846?s=gh-retail-jobs-2027) |
 | **Starbucks** | maintenance technician, 1st shift | 3000 Espresso Way, York,... | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/starbucks-260090096?s=gh-retail-jobs-2027) |
 | **Verizon** | Customer Sales and Service Representative | Syracuse, New York | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1100470?s=gh-retail-jobs-2027) |
