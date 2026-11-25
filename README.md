@@ -94,10 +94,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | Store Associate | CA - Los Angeles | 12m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1114142?s=gh-retail-jobs-2027) |
-| **CVS Health** | Store Associate | CA - Los Angeles | 12m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1114133?s=gh-retail-jobs-2027) |
-| **Lowe's** | Full Time - Sales Associate - Outside Lawn & Garden - Closing | Henrico, VA (E Richmond) 2691 | 12m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02712215?s=gh-retail-jobs-2027) |
-| **Lowe's** | Full Time - Cashier - Opening | Georgetown, KY 1736 | 12m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02712110?s=gh-retail-jobs-2027) |
+| **CVS Health** | Store Associate | CA - Los Angeles | 20m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1114142?s=gh-retail-jobs-2027) |
+| **CVS Health** | Store Associate | CA - Los Angeles | 20m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1114133?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Sales Associate - Outside Lawn & Garden - Closing | Henrico, VA (E Richmond) 2691 | 20m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02712215?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Cashier - Opening | Georgetown, KY 1736 | 20m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02712110?s=gh-retail-jobs-2027) |
 | **Lowe's** | Full Time - Cashier - Closing | Newark, DE 2258 | 4h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02711770?s=gh-retail-jobs-2027) |
 | **T-Mobile** | Customer Service Account Associate - Richmond VA Call Center | Richmond, Virginia | 5h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-tmobile-external-REQ380015?s=gh-retail-jobs-2027) |
 | **T-Mobile** | Customer Service Account Associate - OKC Call Center | Oklahoma City, Oklahoma | 5h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-tmobile-external-REQ380165?s=gh-retail-jobs-2027) |
@@ -147,8 +147,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | General Warehouse - 2nd Shift | RI - North Smithfield | 12m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1114599?s=gh-retail-jobs-2027) |
-| **Lowe's** | Full Time - Receiver/Stocker - Overnight | Decatur, TX 2235 | 12m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02710815?s=gh-retail-jobs-2027) |
+| **CVS Health** | General Warehouse - 2nd Shift | RI - North Smithfield | 20m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1114599?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Receiver/Stocker - Overnight | Decatur, TX 2235 | 20m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02710815?s=gh-retail-jobs-2027) |
 | **Target** | Full Time Hourly Warehouse Operations Openings - $1,000 SIGN ON BONUS (T0579) | Wilton, NY | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453977?s=gh-retail-jobs-2027) |
 | **Target** | Full Time Hourly Warehouse Operations Hiring both Overnight and Weekend Shifts - $1,000 SIGN ON... | Chambersburg, PA | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000453978?s=gh-retail-jobs-2027) |
 | **Lowe's** | Part Time - Fulfillment Associate - Flexible | Stow, OH 0605 | 7h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02711727?s=gh-retail-jobs-2027) |
@@ -245,14 +245,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **CVS Health** | AVP, Pharmacy Operations & Strategy - Aetna Commercial | CT - Hartford | 12m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0916863?s=gh-retail-jobs-2027) |
-| **Lowe's** | Full Time - Sales Specialist - ProServices - Day | Franklin, VA 2698 | 12m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02711599?s=gh-retail-jobs-2027) |
-| **Lowe's** | Full Time - Sales Specialist - Appliances - Day (Bench) | Kahului, HI 3279 | 12m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02712170?s=gh-retail-jobs-2027) |
-| **Lowe's** | Sales Specialist Cabinets | Kahului, HI 3279 | 12m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02712200?s=gh-retail-jobs-2027) |
-| **Highmark Health** | Materials Management Associate, AGH, Full Time | Pittsburgh PA, 15212 | 28m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J287317?s=gh-retail-jobs-2027) |
-| **Highmark Health** | Patient Care Technician I - Night - Oncology - Jefferson Hospital - Full Time | Jefferson Hills PA, 15025, 565... | 28m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291574?s=gh-retail-jobs-2027) |
-| **Highmark Health** | Patient Care Technician I - Oncology - Jefferson Hospital - Full Time | Jefferson Hills PA, 15025, 565... | 28m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291573?s=gh-retail-jobs-2027) |
-| **Sysco** | Outbound Loader | Ifg Jacksonville Facility | 28m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R274672?s=gh-retail-jobs-2027) |
+| **CVS Health** | AVP, Pharmacy Operations & Strategy - Aetna Commercial | CT - Hartford | 20m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0916863?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Sales Specialist - ProServices - Day | Franklin, VA 2698 | 20m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02711599?s=gh-retail-jobs-2027) |
+| **Lowe's** | Full Time - Sales Specialist - Appliances - Day (Bench) | Kahului, HI 3279 | 20m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02712170?s=gh-retail-jobs-2027) |
+| **Lowe's** | Sales Specialist Cabinets | Kahului, HI 3279 | 20m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02712200?s=gh-retail-jobs-2027) |
+| **Highmark Health** | Materials Management Associate, AGH, Full Time | Pittsburgh PA, 15212 | 36m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J287317?s=gh-retail-jobs-2027) |
+| **Highmark Health** | Patient Care Technician I - Night - Oncology - Jefferson Hospital - Full Time | Jefferson Hills PA, 15025, 565... | 36m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291574?s=gh-retail-jobs-2027) |
+| **Highmark Health** | Patient Care Technician I - Oncology - Jefferson Hospital - Full Time | Jefferson Hills PA, 15025, 565... | 36m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291573?s=gh-retail-jobs-2027) |
+| **Sysco** | Outbound Loader | Ifg Jacksonville Facility | 36m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R274672?s=gh-retail-jobs-2027) |
 | **JLL** | RME Operator | Edison, NJ | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ551337?s=gh-retail-jobs-2027) |
 | **JLL** | RME Operator | Kenosha, WI | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ545759?s=gh-retail-jobs-2027) |
 | **JLL** | Business Support, Administrative Assistant | Perth, WA | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ551101?s=gh-retail-jobs-2027) |
@@ -289,11 +289,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **EXP** | Beauty Advisor - CHANEL Beaute, Westfield Valley Fair - Full Time | Santa Clara, CA, United States | 12h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-exp-REQ_827824?s=gh-retail-jobs-2027) |
 | **Sherwin-Williams** | Delivery Driver | Superior, WI, United States | 12h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-sherwin-williams-2630034?s=gh-retail-jobs-2027) |
 | **Starbucks** | district manager, Champaign | Champaign, Illinois, United States | 13h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/starbucks-260091067?s=gh-retail-jobs-2027) |
-| **AbbVie** | Cleaning Specialist Monday- Friday 6:30AM-3:00PM | North Chicago, IL | 13h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017077976?s=gh-retail-jobs-2027) |
+| **AbbVie** | Cleaning Specialist Monday- Friday 6:30AM-3:00PM | North Chicago, IL | 14h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017077976?s=gh-retail-jobs-2027) |
 | **Starbucks** | facilities services manager - Mid America (Iowa, U.S.) | Iowa, United States | 15h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/starbucks-260089829?s=gh-retail-jobs-2027) |
 | **AbbVie** | District Manager, Psychiatry - Northern Ohio | Toledo, OH | 15h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017075927?s=gh-retail-jobs-2027) |
 | **AbbVie** | Specialist, Communications | Tempe, AZ | 15h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017073876?s=gh-retail-jobs-2027) |
-| **LabCorp** | Phlebotomist- Site Coordinator | Deerfield, IL | 17h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638826?s=gh-retail-jobs-2027) |
+| **LabCorp** | Phlebotomist- Site Coordinator | Deerfield, IL | 18h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2638826?s=gh-retail-jobs-2027) |
 | **Comcast** | Communications Technician 4, Network Maintenance (DOT) | AL - Tuscaloosa | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-comcast-comcast-careers-R441814?s=gh-retail-jobs-2027) |
 | **Cardinal Health** | Manager, Revenue Cycle Management | California, CA | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20184742?s=gh-retail-jobs-2027) |
 | **Cardinal Health** | Inventory Coordinator - 3rd Shift | Portland, OR | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cardinalhealth-ext-20191612?s=gh-retail-jobs-2027) |
