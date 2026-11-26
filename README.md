@@ -70,7 +70,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Target** | Starbucks Barista | Dublin, CA | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000482155?s=gh-retail-jobs-2027) |
 | **Albertsons** | Starbucks Barista | Aurora, CO, United States | 14h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-albertsons-797466?s=gh-retail-jobs-2027) |
 | **EXP** | Starbucks Barista Trainer, King of Prussia - Part Time | King of Prussia, PA, United States | 14h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-exp-REQ_828045?s=gh-retail-jobs-2027) |
-| **Starbucks** | machine operator, Coffee 3rd shift | 18411 | 15h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/starbucks-260088449?s=gh-retail-jobs-2027) |
+| **Starbucks** | machine operator, Coffee 3rd shift | 18411 | 16h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/starbucks-260088449?s=gh-retail-jobs-2027) |
 | **Hilton** | Barista (Part-Time) | West Palm Beach, FL, United States | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-225756?s=gh-retail-jobs-2027) |
 | **Kroger** | Starbucks Barista | Las Vegas, NV, United States | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-246858?s=gh-retail-jobs-2027) |
 | **Kroger** | STARBUCKS/BARISTA | Royal Oak, MI, United States | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-256725?s=gh-retail-jobs-2027) |
@@ -95,9 +95,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | **Sysco** | Merchandising Planner I - SYGMA - US | Sygma Central | 7h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-sysco-syscocareers-R276937?s=gh-retail-jobs-2027) |
-| **CVS Health** | Store Associate | WI - Pewaukee | 8h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1113488?s=gh-retail-jobs-2027) |
-| **CVS Health** | Store Associate | NC - Charlotte | 8h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1114256?s=gh-retail-jobs-2027) |
-| **CVS Health** | Store Associate - Overnight | PA - Willow Grove | 8h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1114473?s=gh-retail-jobs-2027) |
+| **CVS Health** | Store Associate | WI - Pewaukee | 9h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1113488?s=gh-retail-jobs-2027) |
+| **CVS Health** | Store Associate | NC - Charlotte | 9h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1114256?s=gh-retail-jobs-2027) |
+| **CVS Health** | Store Associate - Overnight | PA - Willow Grove | 9h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1114473?s=gh-retail-jobs-2027) |
 | **Kroger** | FRONT END/CASHIER | Oregon City, OR, United States | 14h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-255589?s=gh-retail-jobs-2027) |
 | **Kroger** | Cashier | Arvada, CO, United States | 14h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-256941?s=gh-retail-jobs-2027) |
 | **Kroger** | Cashier | Louisville, CO, United States | 14h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-256942?s=gh-retail-jobs-2027) |
@@ -148,12 +148,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **LabCorp** | Warehouse Associate | Tampa FL | 40m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2635688?s=gh-retail-jobs-2027) |
+| **LabCorp** | Warehouse Associate | Tampa FL | 48m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-labcorp-external-2635688?s=gh-retail-jobs-2027) |
 | **Target** | Overnight Inbound (Stocking) (T2960) | Findlay, OH | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000482205?s=gh-retail-jobs-2027) |
 | **Target** | 4am Inbound (Stocking) (T2960) | Findlay, OH | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000482204?s=gh-retail-jobs-2027) |
 | **Target** | Seasonal: Overnight Inbound (Stocking) (T1839) | Hadley, MA | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-target-targetcareers-R0000482203?s=gh-retail-jobs-2027) |
-| **CVS Health** | Technician, Pharmacy Warehouse L1, Dispensing - C Shift | PA - Wilkes Barre | 8h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1048489?s=gh-retail-jobs-2027) |
-| **CVS Health** | General Warehouse - 2nd Shift | RI - North Smithfield | 8h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1114599?s=gh-retail-jobs-2027) |
+| **CVS Health** | Technician, Pharmacy Warehouse L1, Dispensing - C Shift | PA - Wilkes Barre | 9h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1048489?s=gh-retail-jobs-2027) |
+| **CVS Health** | General Warehouse - 2nd Shift | RI - North Smithfield | 9h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1114599?s=gh-retail-jobs-2027) |
 | **EXP** | Seasonal Fulfillment and Receiving Support Associate, Brea | Brea, CA, United States | 14h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-exp-REQ_828058?s=gh-retail-jobs-2027) |
 | **EXP** | Seasonal Fulfillment and Receiving Support Associate, Roseville Galleria | Roseville, CA, United States | 14h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-exp-REQ_828037?s=gh-retail-jobs-2027) |
 | **EXP** | Seasonal Fulfillment and Receiving Support Associate, Newport Fashion Island | Newport Beach, CA, United States | 14h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-exp-REQ_828044?s=gh-retail-jobs-2027) |
@@ -245,10 +245,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Fresenius Medical Care** | Patient Care Technician - PCT | Ewa Beach, HI | 4m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0278943?s=gh-retail-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | CA - San Bruno | 5m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115327?s=gh-retail-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | CA - Milpitas | 5m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115349?s=gh-retail-jobs-2027) |
-| **CVS Health** | Pharmacy Technician | CA - Mission Viejo | 5m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115374?s=gh-retail-jobs-2027) |
+| **Fresenius Medical Care** | Patient Care Technician - PCT | Ewa Beach, HI | 12m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0278943?s=gh-retail-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | CA - San Bruno | 13m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115327?s=gh-retail-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | CA - Milpitas | 13m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115349?s=gh-retail-jobs-2027) |
+| **CVS Health** | Pharmacy Technician | CA - Mission Viejo | 13m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1115374?s=gh-retail-jobs-2027) |
 | **Highmark Health** | Environmental Service Associate / Teamsters JH (Housekeeping-FT Day) Jefferson Hospital | Jefferson Hills PA, 15025, 565... | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291857?s=gh-retail-jobs-2027) |
 | **Highmark Health** | Environmental Services Associate / SEIU - D (Housekeeping-PT Evening) Allegheny General Hospital | Pittsburgh PA, 15212 | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J292003?s=gh-retail-jobs-2027) |
 | **Highmark Health** | Patient Host or Hostess / SEIU - D (FT Day) Allegheny General Hospital | Pittsburgh PA, 15212 | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J291926?s=gh-retail-jobs-2027) |
@@ -280,7 +280,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **EXP** | Retail Selling Support Associate - Womens Clothing, Broward Mall - Part Time | Plantation, FL, United States | 14h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/oracle-exp-REQ_828038?s=gh-retail-jobs-2027) |
 | **Lowe's** | Sales Specialist Cabinets | Kahului, HI 3279 | 15h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02712200?s=gh-retail-jobs-2027) |
 | **Starbucks** | manufacturing technician, 3rd shift | 2525 Starbucks Way, Minden,... | 15h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/starbucks-260081652?s=gh-retail-jobs-2027) |
-| **Starbucks** | machine operator, Multiple Shifts | 18411 | 15h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/starbucks-260085995?s=gh-retail-jobs-2027) |
+| **Starbucks** | machine operator, Multiple Shifts | 18411 | 16h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/starbucks-260085995?s=gh-retail-jobs-2027) |
 | **Starbucks** | manufacturing technician (Multiple Shifts) | United States | 16h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/starbucks-260088751?s=gh-retail-jobs-2027) |
 | **Lowe's** | Full Time - Loader/Cart Associate - Opening | Decatur, TX 2235 | 16h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02707317?s=gh-retail-jobs-2027) |
 | **AbbVie** | Medical Writer, Encores | Volo, IL | 19h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990017096186?s=gh-retail-jobs-2027) |
